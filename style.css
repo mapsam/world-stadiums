@@ -1,0 +1,32 @@
+#wrap {
+	display:block;
+	margin:40px auto;
+	width:900px;
+	text-align:left;
+}
+#map {
+	border:2px solid #999;
+	box-shadow:0 0 0 5px #e5e5e5;
+}
+.stroke {
+	fill:none;
+	stroke:#666;
+	stroke-width:2px;
+}
+.graticule {
+	fill:none;
+	stroke:#c0c0c0;
+	stroke-width:0.5px;
+	stroke-opacity:0.5;
+}
+.land {
+	fill:#c0c0c0;
+	stroke:white;
+	stroke-width:0.2px;
+}
+.stadium {
+	fill:rgba(70, 130, 180, 0.3);
+}
+.fill {
+	fill: #fff;
+}

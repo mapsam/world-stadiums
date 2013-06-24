@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>d3: Topojson Basemap</title>
+<link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+<script type="text/javascript" src="js/d3.v3.min.js"></script>
+<script type="text/javascript" src="js/topojson.js"></script>
+<!--[if IE]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+</head>
+
+
+<body>
+<div id="wrap">
+	<div id="map"></div>
+</div>
+<script>
+function init() {
+	setMap();
+}
+
+function setMap() {
+	var width = 896,
+		height = 400;
+	var svg = d3.select("#map").append("svg")
+		.attr("width", width)
+		.attr("height", height);
+	var projection = d3.geo.orthographic()
+		.scale(2000)
+		.rotate([100,-30,0])
+		.clipAngle(90)
+		.translate([width / 2, height / 2])
+		.center([20,10]);
+	var path = d3.geo.path()
+		.projection(projection);
+	d3.json("data/stadia.json", function(error, stadia) {
+		land = topojson.feature(stadia, stadia.objects.land);
+		stadiums = topojson.feature(stadia, stadia.objects.stadiums);
+		svg.append("path")
+			.datum(land)
+			.attr("class", "land")
+			.attr("d", path);
+		svg.append("path")
+			.datum(stadiums)
+			.attr("class", "stadium")
+			.attr("d", path);
+		svg.selectAll(".stadium")
+			.data(stadiums)
+			.on("mouseover", stadHover)
+			.on("mouseout", stadOff);
+	});
+	function stadHover(){
+		d3.select(this)
+			.style("fill", "#000");
+	}
+	function stadOff(){
+		d3.select(this)
+			.style("fill", "rgba(70, 130, 180, 0.3)");
+	}
+
+}
+
+window.onload = init();
+</script>
+</body>
+</html>

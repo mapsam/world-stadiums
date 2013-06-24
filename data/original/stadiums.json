@@ -1,0 +1,1339 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "s_name": "11 June Stadium", "city": "Tripoli", "country": "LBY", "team": "Al-Ahly\/Al-Ittihad", "capacity": "65000", "year": "1967" }, "geometry": { "type": "Point", "coordinates": [ 35.85, 34.4333 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "AAMI Park", "city": "Melbourne", "country": "AUS", "team": "Melbourne Victory FC", "capacity": "30050", "year": "2010" }, "geometry": { "type": "Point", "coordinates": [ -80.7534, 28.0782 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "AAMI Stadium", "city": "Adelaide", "country": "AUS", "team": "Adelaide Crows FC", "capacity": "51515", "year": "1974" }, "geometry": { "type": "Point", "coordinates": [ 138.5986, -34.9287 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "ABSA Stadium", "city": "Durban", "country": "ZAF", "team": "The Sharks", "capacity": "55000", "year": "1891" }, "geometry": { "type": "Point", "coordinates": [ 31.0292, -29.8579 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Abuja Stadium", "city": "Abuja", "country": "NGA", "team": "National Stadium", "capacity": "60000", "year": "2003" }, "geometry": { "type": "Point", "coordinates": [ 7.5333, 9.0833 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "ACA-VDCA Stadium", "city": "Visakhapatnam", "country": "IND", "team": "Deccan Chargers", "capacity": "46000", "year": "2003" }, "geometry": { "type": "Point", "coordinates": [ 83.3, 17.7 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Adelaide Oval", "city": "Adelaide", "country": "AUS", "team": "Southern Redbacks", "capacity": "33597", "year": "1871" }, "geometry": { "type": "Point", "coordinates": [ 138.5986, -34.9287 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Ademar da Costa Carvalho", "city": "Recife", "country": "BRA", "team": "Sport Club do Recife", "capacity": "30520", "year": "1937" }, "geometry": { "type": "Point", "coordinates": [ -34.9, -8.05 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Aggie Memorial Stadium", "city": "Las Cruces", "country": "USA", "team": "New Mexico State Aggies", "capacity": "30343", "year": "1978" }, "geometry": { "type": "Point", "coordinates": [ -106.6417, 32.3047 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Aintree Racecourse", "city": "Liverpool", "country": "GBR", "team": "Grand National Race", "capacity": "75000", "year": "1829" }, "geometry": { "type": "Point", "coordinates": [ -76.2116, 43.1532 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Ajinamoto Stadium", "city": "Tokyo", "country": "JPN", "team": "FC Tokyo", "capacity": "50000", "year": "2000" }, "geometry": { "type": "Point", "coordinates": [ 139.7514, 35.685 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Al Shaab Stadium", "city": "Baghdad", "country": "IRQ", "team": "National Stadium", "capacity": "35000", "year": "1966" }, "geometry": { "type": "Point", "coordinates": [ 44.3939, 33.3386 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Alamodome", "city": "San Antonio", "country": "USA", "team": "Alamo Bowl", "capacity": "65000", "year": "1993" }, "geometry": { "type": "Point", "coordinates": [ -98.4842, 29.4244 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Albert Park F1 Circuit", "city": "Melbourne", "country": "AUS", "team": "Race-use", "capacity": "80000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ -80.7534, 28.0782 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Alberto J. Armando", "city": "Buenos Aires", "country": "ARG", "team": "CA Boca Juniors", "capacity": "57446", "year": "1940" }, "geometry": { "type": "Point", "coordinates": [ -58.6725, -34.5875 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Alberto Tavares Silva", "city": "Teresina", "country": "BRA", "team": "EC Flamengo", "capacity": "44200", "year": "1973" }, "geometry": { "type": "Point", "coordinates": [ -42.8167, -5.0833 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Alejandro Villanueva", "city": "Lima", "country": "PER", "team": "Alianza Lima", "capacity": "35000", "year": "1974" }, "geometry": { "type": "Point", "coordinates": [ -84.1319, 40.7988 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Aleppo Int'l Stadium", "city": "Aleppo", "country": "SYR", "team": "Al-Ittihad", "capacity": "75000", "year": "2007" }, "geometry": { "type": "Point", "coordinates": [ -80.4884, 39.7848 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Aloha Stadium", "city": "Honolulu", "country": "USA", "team": "Hawai'i Rainbow Warriors", "capacity": "50000", "year": "1975" }, "geometry": { "type": "Point", "coordinates": [ -157.8389, 21.3209 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Alumni Stadium", "city": "Boston", "country": "USA", "team": "Boston College Eagles", "capacity": "44500", "year": "1957" }, "geometry": { "type": "Point", "coordinates": [ -71.0746, 42.3496 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "AMI Stadium", "city": "Christchurch", "country": "NZL", "team": "Canterbury RFU", "capacity": "38628", "year": "2002" }, "geometry": { "type": "Point", "coordinates": [ 172.6333, -43.5333 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Amon Carter Stadium", "city": "Fort Worth", "country": "USA", "team": "TCU Horned Frogs", "capacity": "45000", "year": "2012" }, "geometry": { "type": "Point", "coordinates": [ -97.3214, 32.7257 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Amsterdam ArenA", "city": "Amsterdam", "country": "NLD", "team": "AFC Ajax", "capacity": "52960", "year": "1996" }, "geometry": { "type": "Point", "coordinates": [ -74.1224, 42.9694 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Anfield", "city": "Liverpool", "country": "GBR", "team": "Liverpool FC", "capacity": "45000", "year": "1884" }, "geometry": { "type": "Point", "coordinates": [ -76.2116, 43.1532 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Angel Stadium", "city": "Anaheim", "country": "USA", "team": "L.A. Angels of Anaheim", "capacity": "45050", "year": "1966" }, "geometry": { "type": "Point", "coordinates": [ -117.8673, 33.8312 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Ansan Wa~ Stadium", "city": "Ansan", "country": "KOR", "team": "Hallelujah", "capacity": "35000", "year": "2006" }, "geometry": { "type": "Point", "coordinates": [ 126.8219, 37.3236 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Antonio Vespucio Liberti", "city": "Buenos Aires", "country": "ARG", "team": "CA River Plate", "capacity": "66449", "year": "1938" }, "geometry": { "type": "Point", "coordinates": [ -58.6725, -34.5875 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "ANZ Stadium", "city": "Sydney", "country": "AUS", "team": "National Stadium", "capacity": "83500", "year": "1999" }, "geometry": { "type": "Point", "coordinates": [ -60.1667, 46.15 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Apogee Stadium", "city": "Denton", "country": "USA", "team": "North Texas Mean Green", "capacity": "30850", "year": "2011" }, "geometry": { "type": "Point", "coordinates": [ -75.7932, 38.8475 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Arena Barueri", "city": "Barueri", "country": "BRA", "team": "Football-use", "capacity": "35000", "year": "2007" }, "geometry": { "type": "Point", "coordinates": [ -46.8833, -23.5167 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Arena do GrÃªmio", "city": "Porto Alegre", "country": "BRA", "team": "GrÃªmio FBPA", "capacity": "60540", "year": "2012" }, "geometry": { "type": "Point", "coordinates": [ -51.2, -30.0333 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Arena Fonte Nova", "city": "Salvador", "country": "BRA", "team": "EC Bahia", "capacity": "56500", "year": "2013" }, "geometry": { "type": "Point", "coordinates": [ -38.5167, -12.9833 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Arena Lviv", "city": "Lviv", "country": "UKR", "team": "Football-use", "capacity": "34915", "year": "2011" }, "geometry": { "type": "Point", "coordinates": [ 24.0305, 49.8407 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Arizona Stadium", "city": "Tucson", "country": "USA", "team": "Arizona Wildcats", "capacity": "56002", "year": "1928" }, "geometry": { "type": "Point", "coordinates": [ -111.0022, 32.2686 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Arlington Park", "city": "Arlington Heights", "country": "USA", "team": "Horse-Racing use", "capacity": "34000", "year": "1989" }, "geometry": { "type": "Point", "coordinates": [ -87.9807, 42.113 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Arrowhead Stadium", "city": "Kansas City", "country": "USA", "team": "Kansas City Chiefs", "capacity": "79451", "year": "1972" }, "geometry": { "type": "Point", "coordinates": [ -94.566, 39.1068 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Ascot Racecourse", "city": "Ascot", "country": "GBR", "team": "Horse Racing-use", "capacity": "80000", "year": "2006" }, "geometry": { "type": "Point", "coordinates": [ 144.3333, -36.7 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Asim Ferhatovic Hase", "city": "Sarajevo", "country": "BIH", "team": "FK Sarajevo", "capacity": "34630", "year": "1983" }, "geometry": { "type": "Point", "coordinates": [ 18.3833, 43.85 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "AT&T Park", "city": "San Francisco", "country": "USA", "team": "San Francisco Giants", "capacity": "41663", "year": "2000" }, "geometry": { "type": "Point", "coordinates": [ -122.3826, 37.7312 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "AtatÃ¼rk Olimpiyat Stadi", "city": "Istanbul", "country": "TUR", "team": "National Stadium", "capacity": "76092", "year": "2001" }, "geometry": { "type": "Point", "coordinates": [ 28.9647, 41.0186 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Athens Olympic Stadium", "city": "Athens", "country": "GRC", "team": "AEK FC", "capacity": "71030", "year": "1982" }, "geometry": { "type": "Point", "coordinates": [ -73.8294, 42.2823 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Atlanta Motor Speedway", "city": "Hampton", "country": "USA", "team": "Race-use", "capacity": "124000", "year": "1997" }, "geometry": { "type": "Point", "coordinates": [ -76.4052, 37.0627 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Auto Club Raceway", "city": "Pomona", "country": "USA", "team": "Race-use", "capacity": "40000", "year": "1961" }, "geometry": { "type": "Point", "coordinates": [ -117.7548, 34.039 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Auto Club Speedway", "city": "Fontana", "country": "USA", "team": "Race-use", "capacity": "92109", "year": "1997" }, "geometry": { "type": "Point", "coordinates": [ -117.4648, 34.0881 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Autodromo di Monza", "city": "Monza", "country": "ITA", "team": "Race-use", "capacity": "137000", "year": "1922" }, "geometry": { "type": "Point", "coordinates": [ 9.2667, 45.5833 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "AutÃ³dromo Nelson Piquet", "city": "Rio De Janeiro", "country": "BRA", "team": "Race-use", "capacity": "60000", "year": "1977" }, "geometry": { "type": "Point", "coordinates": [ -43.2333, -22.9 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Autzen Stadium", "city": "Eugene", "country": "USA", "team": "Oregon Ducks", "capacity": "53800", "year": "1967" }, "geometry": { "type": "Point", "coordinates": [ -123.0825, 44.069 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Aviva Stadium", "city": "Dublin", "country": "IRL", "team": "National Stadium", "capacity": "50000", "year": "2010" }, "geometry": { "type": "Point", "coordinates": [ -83.1265, 40.1176 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Azadi Stadium", "city": "Tehran", "country": "IRN", "team": "Perspolis Tehran", "capacity": "84412", "year": "1971" }, "geometry": { "type": "Point", "coordinates": [ 51.3304, 35.7261 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "B. Snyder Family Stadium", "city": "Manhattan", "country": "USA", "team": "Kansas State Wildcats", "capacity": "50300", "year": "1968" }, "geometry": { "type": "Point", "coordinates": [ -96.6849, 39.2483 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Baba Yara Stadium", "city": "Kumasi", "country": "GHA", "team": "Asante Kotoko", "capacity": "40528", "year": "2007" }, "geometry": { "type": "Point", "coordinates": [ -1.6167, 6.6833 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Bangabandhu Stadium", "city": "Dhaka", "country": "BGD", "team": "Brothers Union", "capacity": "36000", "year": "1955" }, "geometry": { "type": "Point", "coordinates": [ 90.4086, 23.7231 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Bank of America Stadium", "city": "Charlotte", "country": "USA", "team": "Carolina Panthers", "capacity": "73248", "year": "1996" }, "geometry": { "type": "Point", "coordinates": [ -80.9343, 35.1232 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Bao'an Stadium", "city": "Shenzhen", "country": "CHN", "team": "Shenzhen Moutai Ruby", "capacity": "40000", "year": "2011" }, "geometry": { "type": "Point", "coordinates": [ 114.1333, 22.5333 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "BayArena", "city": "Leverkusen", "country": "DEU", "team": "Bayer Leverkusen", "capacity": "30210", "year": "1999" }, "geometry": { "type": "Point", "coordinates": [ 6.9833, 51.0167 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "BC Place Stadium", "city": "Vancouver", "country": "CAN", "team": "BC Lions", "capacity": "52000", "year": "1983" }, "geometry": { "type": "Point", "coordinates": [ -122.5167, 45.6023 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Beaver Stadium", "city": "University Park", "country": "USA", "team": "Penn State Nittany Lions", "capacity": "107282", "year": "1960" }, "geometry": { "type": "Point", "coordinates": [ -77.8614, 40.8077 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Beijing National Stadium", "city": "Beijing", "country": "CHN", "team": "National Stadium", "capacity": "80000", "year": "2008" }, "geometry": { "type": "Point", "coordinates": [ 116.3883, 39.9289 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Belmont Park", "city": "Elmont", "country": "USA", "team": "Horse-Racing use", "capacity": "90000", "year": "1905" }, "geometry": { "type": "Point", "coordinates": [ -73.7062, 40.7021 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Ben Hill Griffin Stadium", "city": "Gainesville", "country": "USA", "team": "Florida Gators", "capacity": "88548", "year": "1929" }, "geometry": { "type": "Point", "coordinates": [ -83.8095, 34.3138 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Besiktas InÃ¶nÃ¼ Stadi", "city": "Istanbul", "country": "TUR", "team": "Besiktas JK", "capacity": "32086", "year": "1947" }, "geometry": { "type": "Point", "coordinates": [ 28.9647, 41.0186 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "BH Networks Stadium", "city": "Orlando", "country": "USA", "team": "UCF Knights", "capacity": "45301", "year": "2007" }, "geometry": { "type": "Point", "coordinates": [ -81.2439, 28.5883 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Big Arch Stadium", "city": "Hiroshima", "country": "JPN", "team": "Sanfrecce Hiroshima", "capacity": "45000", "year": "1993" }, "geometry": { "type": "Point", "coordinates": [ 132.4594, 34.3963 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Big Crown Stadium", "city": "Ulsan", "country": "KOR", "team": "Ulsan Hyundai Tigers", "capacity": "43550", "year": "2001" }, "geometry": { "type": "Point", "coordinates": [ 129.3167, 35.5372 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Bobby Dodd at Grant Field", "city": "Atlanta", "country": "USA", "team": "GT Yellow Jackets", "capacity": "55000", "year": "1913" }, "geometry": { "type": "Point", "coordinates": [ 27.5655, -25.207 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Boleyn Ground", "city": "London", "country": "GBR", "team": "West Ham United", "capacity": "35056", "year": "1994" }, "geometry": { "type": "Point", "coordinates": [ 30.8667, -24.7667 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Boone Pickens Stadium", "city": "Stillwater", "country": "USA", "team": "Oklahoma State Cowboys", "capacity": "60000", "year": "1920" }, "geometry": { "type": "Point", "coordinates": [ -97.0574, 36.1885 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Borg el Arab Stadium", "city": "Alexandria", "country": "EGY", "team": "Football-use", "capacity": "86000", "year": "2006" }, "geometry": { "type": "Point", "coordinates": [ 29.9192, 31.1981 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Boris Paichadze Stadium", "city": "Tbilisi", "country": "GEO", "team": "National Stadium", "capacity": "55000", "year": "1976" }, "geometry": { "type": "Point", "coordinates": [ 44.7908, 41.725 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Botchan Stadium", "city": "Matsuyama", "country": "JPN", "team": "Ehime Mandarin Pirates", "capacity": "30136", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 132.7661, 33.8417 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Bramall Lane", "city": "Sheffield", "country": "GBR", "team": "Sheffield United FC", "capacity": "33500", "year": "1966" }, "geometry": { "type": "Point", "coordinates": [ -93.2128, 42.8772 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Breffni Park", "city": "Cavan", "country": "IRL", "team": "Cavan County", "capacity": "32000", "year": "1923" }, "geometry": { "type": "Point", "coordinates": [ -7.3606, 53.9908 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Bristol Motor Speedway", "city": "Bristol", "country": "USA", "team": "Race-use", "capacity": "160000", "year": "1961" }, "geometry": { "type": "Point", "coordinates": [ -72.9405, 41.6816 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Bronco Stadium", "city": "Boise", "country": "USA", "team": "Boise State Broncos", "capacity": "37000", "year": "1970" }, "geometry": { "type": "Point", "coordinates": [ -116.2135, 43.561 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Browns Stadium", "city": "Cleveland", "country": "USA", "team": "Cleveland Browns", "capacity": "73200", "year": "1999" }, "geometry": { "type": "Point", "coordinates": [ -81.5366, 41.4379 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Bryant Denny Stadium", "city": "Tuscaloosa", "country": "USA", "team": "Alabama Crimson Tide", "capacity": "101821", "year": "1929" }, "geometry": { "type": "Point", "coordinates": [ -87.4741, 33.3323 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Bukit Jalil Stadium", "city": "Kuala Lumpur", "country": "MYS", "team": "National Stadium", "capacity": "100200", "year": "1998" }, "geometry": { "type": "Point", "coordinates": [ 101.7, 3.1667 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Bulldog Stadium", "city": "Fresno", "country": "USA", "team": "Fresno State Bulldogs", "capacity": "41031", "year": "1980" }, "geometry": { "type": "Point", "coordinates": [ -119.8285, 36.84 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Bung Karno Stadium", "city": "Jakarta", "country": "IDN", "team": "National Stadium", "capacity": "88083", "year": "1962" }, "geometry": { "type": "Point", "coordinates": [ 106.8294, -6.1744 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Bung Tomo Stadium", "city": "Surabaya", "country": "IDN", "team": "Persebaya Surabaya", "capacity": "50000", "year": "2010" }, "geometry": { "type": "Point", "coordinates": [ 112.7508, -7.2492 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Byrd Stadium", "city": "College Park", "country": "USA", "team": "Maryland Terrapins", "capacity": "48055", "year": "1950" }, "geometry": { "type": "Point", "coordinates": [ -76.9317, 39.0012 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Cairo Int'l Stadium", "city": "Cairo", "country": "EGY", "team": "El-Ahly", "capacity": "74100", "year": "1960" }, "geometry": { "type": "Point", "coordinates": [ 31.25, 30.05 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Cajun Field", "city": "Lafayette", "country": "USA", "team": "ULL Ragin' Cajuns", "capacity": "31000", "year": "1971" }, "geometry": { "type": "Point", "coordinates": [ -86.0058, 36.5278 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Calder Park Raceway", "city": "Melbourne", "country": "AUS", "team": "Race-use", "capacity": "44000", "year": "1987" }, "geometry": { "type": "Point", "coordinates": [ -80.7534, 28.0782 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Camille Chamoun Stadium", "city": "Beirut", "country": "LBN", "team": "Al-Nejmeh SC", "capacity": "57600", "year": "1998" }, "geometry": { "type": "Point", "coordinates": [ 35.5097, 33.8719 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Camp Randall Stadium", "city": "Madison", "country": "USA", "team": "Wisconsin Badgers", "capacity": "81321", "year": "1917" }, "geometry": { "type": "Point", "coordinates": [ -86.6991, 36.2558 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Candlestick Park", "city": "San Francisco", "country": "USA", "team": "San Francisco 49ers", "capacity": "69734", "year": "1960" }, "geometry": { "type": "Point", "coordinates": [ -122.3826, 37.7312 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Cape Town Stadium", "city": "Cape Town", "country": "ZAF", "team": "Ajax Cape Town", "capacity": "55000", "year": "2009" }, "geometry": { "type": "Point", "coordinates": [ 18.4232, -33.9258 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Carrier Dome", "city": "Syracuse", "country": "USA", "team": "Syracuse Orangemen", "capacity": "32000", "year": "1980" }, "geometry": { "type": "Point", "coordinates": [ -76.0729, 43.0347 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Carter Finley Stadium", "city": "Raleigh", "country": "USA", "team": "N.C. State Wolfpack", "capacity": "57082", "year": "1966" }, "geometry": { "type": "Point", "coordinates": [ -78.5636, 35.8181 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Casement Park", "city": "Belfast", "country": "GBR", "team": "Antrim County", "capacity": "32500", "year": "1953" }, "geometry": { "type": "Point", "coordinates": [ -69.0551, 44.4735 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Caulfield Racecourse", "city": "Melbourne", "country": "AUS", "team": "Horse Racing-use", "capacity": "46800", "year": "1992" }, "geometry": { "type": "Point", "coordinates": [ -80.7534, 28.0782 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "CCM Kirumba Stadium", "city": "Mwanza", "country": "TZA", "team": "Pamba", "capacity": "35000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 32.9, -2.5167 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Celtic Park", "city": "Glasgow", "country": "GBR", "team": "Celtic FC", "capacity": "60506", "year": "1999" }, "geometry": { "type": "Point", "coordinates": [ -85.9463, 36.9376 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Century Lotus Stadium", "city": "Foshan", "country": "CHN", "team": "Guangdong Sports Lottery", "capacity": "36686", "year": "2005" }, "geometry": { "type": "Point", "coordinates": [ 113.1315, 23.0268 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "CenturyLink Field", "city": "Seattle", "country": "USA", "team": "Seattle Seahawks", "capacity": "67000", "year": "2002" }, "geometry": { "type": "Point", "coordinates": [ -122.3284, 47.6026 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Changchun City Stadium", "city": "Changchun", "country": "CHN", "team": "Changchun Yatai", "capacity": "38000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 125.3228, 43.88 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Charlotte Motor Speedway", "city": "Concord", "country": "USA", "team": "Race-use", "capacity": "167000", "year": "1959" }, "geometry": { "type": "Point", "coordinates": [ -80.6748, 35.4198 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Chase Field", "city": "Phoenix", "country": "USA", "team": "Arizona Diamondbacks", "capacity": "49033", "year": "1998" }, "geometry": { "type": "Point", "coordinates": [ -112.0955, 33.5586 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Cheltenham Racecourse", "city": "Cheltenham", "country": "GBR", "team": "Horse Racing use", "capacity": "67500", "year": "1979" }, "geometry": { "type": "Point", "coordinates": [ -76.8378, 38.7417 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Chengdu Sports Center", "city": "Chengdu", "country": "CHN", "team": "Chengdu Blades", "capacity": "42000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 104.0667, 30.6667 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Chicago Motor Speedway", "city": "Cicero", "country": "USA", "team": "Race-use", "capacity": "67000", "year": "1999" }, "geometry": { "type": "Point", "coordinates": [ -87.7588, 41.8406 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Chicagoland Speedway", "city": "Joliet", "country": "USA", "team": "Race-use", "capacity": "75000", "year": "2001" }, "geometry": { "type": "Point", "coordinates": [ -88.2278, 41.5085 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Chinnaswamy Stadium", "city": "Bangalore", "country": "IND", "team": "Royal Challengers", "capacity": "40000", "year": "1969" }, "geometry": { "type": "Point", "coordinates": [ 77.5833, 12.9833 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "CHIO Hauptstadion", "city": "Aachen", "country": "DEU", "team": "Equestrian-use", "capacity": "40000", "year": "2006" }, "geometry": { "type": "Point", "coordinates": [ 6.1053, 50.7708 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Churchill Downs", "city": "Louisville", "country": "USA", "team": "Horse Racing-use", "capacity": "120000", "year": "1895" }, "geometry": { "type": "Point", "coordinates": [ -85.8495, 38.0858 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Cidade de Coimbra", "city": "Coimbra", "country": "PRT", "team": "AcadÃ©mica de Coimbra", "capacity": "30154", "year": "2003" }, "geometry": { "type": "Point", "coordinates": [ -8.4196, 40.2056 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Circuit Bugatti", "city": "Le Mans", "country": "FRA", "team": "Race-use", "capacity": "100000", "year": "1965" }, "geometry": { "type": "Point", "coordinates": [ 0.2047, 48.0004 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Circuit of the Americas", "city": "Austin", "country": "USA", "team": "Race-use", "capacity": "120000", "year": "2012" }, "geometry": { "type": "Point", "coordinates": [ -97.8002, 30.2058 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Circuit Zandvoort", "city": "Zandvoort", "country": "NLD", "team": "Race-use", "capacity": "62000", "year": "1948" }, "geometry": { "type": "Point", "coordinates": [ 4.527, 52.3714 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Citi Field", "city": "New York", "country": "USA", "team": "New York Mets", "capacity": "41922", "year": "2009" }, "geometry": { "type": "Point", "coordinates": [ -73.9725, 40.7528 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Citizens Bank Park", "city": "Philadelphia", "country": "USA", "team": "Philadelphia Phillies", "capacity": "43500", "year": "2004" }, "geometry": { "type": "Point", "coordinates": [ -75.1653, 39.9524 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "City of M'ster Stadium", "city": "Manchester", "country": "GBR", "team": "Manchester City", "capacity": "48000", "year": "2002" }, "geometry": { "type": "Point", "coordinates": [ -71.4435, 42.9403 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Ciudad de Vicente LÃ³pez", "city": "Buenos Aires", "country": "ARG", "team": "Platense", "capacity": "31000", "year": "1979" }, "geometry": { "type": "Point", "coordinates": [ -58.6725, -34.5875 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Club HÃ­pico de Santiago", "city": "Santiago", "country": "CHL", "team": "Horse Racing-use", "capacity": "50000", "year": "1870" }, "geometry": { "type": "Point", "coordinates": [ -70.6667, -33.45 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Cluj Arena", "city": "Cluj-napoca", "country": "ROM", "team": "FC Universitatea Cluj", "capacity": "30335", "year": "2011" }, "geometry": { "type": "Point", "coordinates": [ 23.6, 46.7667 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Coca-Cola Park", "city": "Johannesburg", "country": "ZAF", "team": "Golden Lions RU", "capacity": "62567", "year": "1928" }, "geometry": { "type": "Point", "coordinates": [ 28.0498, -26.2052 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Coface Arena", "city": "Mainz", "country": "DEU", "team": "FSV Mainz 05", "capacity": "34034", "year": "2011" }, "geometry": { "type": "Point", "coordinates": [ 8.2711, 50.0 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Comerica Park", "city": "Detroit", "country": "USA", "team": "Detroit Tigers", "capacity": "41070", "year": "2000" }, "geometry": { "type": "Point", "coordinates": [ -83.1386, 42.3679 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Commonwealth Stadium", "city": "Edmonton", "country": "CAN", "team": "Edmonton Eskimos", "capacity": "60217", "year": "1978" }, "geometry": { "type": "Point", "coordinates": [ -113.5, 53.55 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Coors Field", "city": "Denver", "country": "USA", "team": "Colorado Rockies", "capacity": "50449", "year": "1995" }, "geometry": { "type": "Point", "coordinates": [ -104.9995, 39.7525 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Cotton Bowl", "city": "Dallas", "country": "USA", "team": "Texas-Oklahoma Game", "capacity": "92200", "year": "1932" }, "geometry": { "type": "Point", "coordinates": [ -96.8207, 32.7825 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Cowboys Stadium", "city": "Arlington", "country": "USA", "team": "Dallas Cowboys", "capacity": "80000", "year": "2009" }, "geometry": { "type": "Point", "coordinates": [ -77.0987, 38.86 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Croke Park", "city": "Dublin", "country": "IRL", "team": "National Stadium", "capacity": "82300", "year": "2002" }, "geometry": { "type": "Point", "coordinates": [ -83.1265, 40.1176 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Darlington Raceway", "city": "Darlington", "country": "USA", "team": "Race-use", "capacity": "65000", "year": "1950" }, "geometry": { "type": "Point", "coordinates": [ -79.8626, 34.2777 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Datianwan Stadium", "city": "Chongqing", "country": "CHN", "team": "Multi-use", "capacity": "32000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 106.5528, 29.5628 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Davis Wade Stadium", "city": "Starkville", "country": "USA", "team": "Mississippi State Bulldogs", "capacity": "55082", "year": "1914" }, "geometry": { "type": "Point", "coordinates": [ -88.8303, 33.4259 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Daytona Int'l Speedway", "city": "Daytona Beach", "country": "USA", "team": "Race-use", "capacity": "168000", "year": "1959" }, "geometry": { "type": "Point", "coordinates": [ -81.0075, 29.1622 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Dinamo Stadion", "city": "Moscow", "country": "RUS", "team": "Dinamo Moskva\/CSKA", "capacity": "36540", "year": "1928" }, "geometry": { "type": "Point", "coordinates": [ -116.9179, 46.7172 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Dix Stadium", "city": "Kent", "country": "USA", "team": "Kent State Golden Flashes", "capacity": "30520", "year": "1969" }, "geometry": { "type": "Point", "coordinates": [ -122.1957, 47.4084 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "DKR-Texas Memorial Stadium", "city": "Austin", "country": "USA", "team": "Texas Longhorns", "capacity": "100119", "year": "1924" }, "geometry": { "type": "Point", "coordinates": [ -97.8002, 30.2058 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Doak Campbell Stadium", "city": "Tallahassee", "country": "USA", "team": "Florida State Seminoles", "capacity": "82300", "year": "1950" }, "geometry": { "type": "Point", "coordinates": [ -84.1266, 30.5802 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Dodger Stadium", "city": "Los Angeles", "country": "USA", "team": "L.A. Dodgers", "capacity": "56000", "year": "1962" }, "geometry": { "type": "Point", "coordinates": [ -118.2661, 34.0396 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Don LeÃ³n Kolbovski", "city": "Buenos Aires", "country": "ARG", "team": "Atlanta", "capacity": "34000", "year": "1960" }, "geometry": { "type": "Point", "coordinates": [ -58.6725, -34.5875 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Donbass Arena", "city": "Donetsk", "country": "UKR", "team": "FC Shakhtar Donetsk", "capacity": "52518", "year": "2009" }, "geometry": { "type": "Point", "coordinates": [ 37.7759, 47.9917 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Donington Park Circuit", "city": "Derby", "country": "GBR", "team": "Race-use", "capacity": "68000", "year": "1977" }, "geometry": { "type": "Point", "coordinates": [ -73.1019, 41.3333 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Dover Int'l Speedway", "city": "Dover", "country": "USA", "team": "Race-use", "capacity": "140000", "year": "1969" }, "geometry": { "type": "Point", "coordinates": [ -75.5971, 39.1817 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Dowdy Ficklen Stadium", "city": "Greenville", "country": "USA", "team": "E. Carolina Pirates", "capacity": "50000", "year": "1963" }, "geometry": { "type": "Point", "coordinates": [ -77.1661, 35.6876 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Doyt L. Perry Stadium", "city": "Bowling Green", "country": "USA", "team": "Bowling Green Falcons", "capacity": "30599", "year": "1966" }, "geometry": { "type": "Point", "coordinates": [ -86.4286, 37.0941 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Dr. Lisandro de la Torre", "city": "Rosario", "country": "ARG", "team": "Rosario Central", "capacity": "41654", "year": "1978" }, "geometry": { "type": "Point", "coordinates": [ -60.6393, -32.9468 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Dubai Autodrome", "city": "Dubai", "country": "ARE", "team": "Race-use", "capacity": "55000", "year": "2004" }, "geometry": { "type": "Point", "coordinates": [ 55.3047, 25.2582 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Eden Park", "city": "Auckland", "country": "NZL", "team": "Auckland RFU", "capacity": "60000", "year": "1900" }, "geometry": { "type": "Point", "coordinates": [ 174.7667, -36.8667 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Elland Road", "city": "Leeds", "country": "GBR", "team": "Leeds United", "capacity": "40204", "year": "1996" }, "geometry": { "type": "Point", "coordinates": [ -86.5532, 33.5147 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Elmo Serejo Farias", "city": "Taguatinga", "country": "BRA", "team": "Brasiliense FC", "capacity": "32000", "year": "1978" }, "geometry": { "type": "Point", "coordinates": [ -46.3669, -12.4656 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Emirates Stadium", "city": "London", "country": "GBR", "team": "Arsenal FC", "capacity": "60000", "year": "2006" }, "geometry": { "type": "Point", "coordinates": [ 30.8667, -24.7667 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "EstÃ¡dio 11 de Novembro", "city": "Luanda", "country": "AGO", "team": "National Stadium", "capacity": "50000", "year": "2009" }, "geometry": { "type": "Point", "coordinates": [ 13.2344, -8.8383 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "EstÃ¡dio Algarve", "city": "Faro", "country": "PRT", "team": "SC Farense", "capacity": "30305", "year": "2003" }, "geometry": { "type": "Point", "coordinates": [ -7.9322, 37.0194 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "EstÃ¡dio Alvalade XXI", "city": "Lisbon", "country": "PRT", "team": "Sporting Portugal", "capacity": "50300", "year": "2003" }, "geometry": { "type": "Point", "coordinates": [ -71.8839, 44.2079 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio Balaidos", "city": "Vigo", "country": "ESP", "team": "Celta de Vigo", "capacity": "31800", "year": "1928" }, "geometry": { "type": "Point", "coordinates": [ -8.7226, 42.2328 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio Banco Pichincha", "city": "Guayaquil", "country": "ECU", "team": "Barcelona SC", "capacity": "75000", "year": "1987" }, "geometry": { "type": "Point", "coordinates": [ -79.9, -2.1667 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio Benito VillamarÃ­n", "city": "Sevilla", "country": "ESP", "team": "Real Betis BalompiÃ©", "capacity": "56432", "year": "2001" }, "geometry": { "type": "Point", "coordinates": [ -5.9761, 37.3824 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "EstÃ¡dio Brinco de Ouro", "city": "Campinas", "country": "BRA", "team": "GuaranÃ­ FC", "capacity": "32453", "year": "1953" }, "geometry": { "type": "Point", "coordinates": [ -47.0833, -22.9 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio Caliente", "city": "Tijuana", "country": "MEX", "team": "Club Tijuana", "capacity": "33333", "year": "2007" }, "geometry": { "type": "Point", "coordinates": [ -117.0167, 32.5333 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio Casa Blanca", "city": "Quito", "country": "ECU", "team": "LDU Quito", "capacity": "42000", "year": "1997" }, "geometry": { "type": "Point", "coordinates": [ -78.5, -0.2167 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio Centenario", "city": "Montevideo", "country": "URY", "team": "National Stadium", "capacity": "73609", "year": "1930" }, "geometry": { "type": "Point", "coordinates": [ -56.1708, -34.8581 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio Chacarita Juniors", "city": "Buenos Aires", "country": "ARG", "team": "CA Chacarita Juniors", "capacity": "35000", "year": "1945" }, "geometry": { "type": "Point", "coordinates": [ -58.6725, -34.5875 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio Ciudad de La Plata", "city": "La Plata", "country": "ARG", "team": "Estudiantes de La Plata", "capacity": "53000", "year": "2003" }, "geometry": { "type": "Point", "coordinates": [ -77.0154, 38.5163 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "EstÃ¡dio Couto Pereira", "city": "Curitiba", "country": "BRA", "team": "Coritiba FC", "capacity": "37182", "year": "1932" }, "geometry": { "type": "Point", "coordinates": [ -49.25, -25.4167 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio CuauhtÃ©moc", "city": "Puebla", "country": "MEX", "team": "Puebla", "capacity": "42649", "year": "1968" }, "geometry": { "type": "Point", "coordinates": [ -98.2, 19.05 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio CuscatlÃ¡n", "city": "San Salvador", "country": "SLV", "team": "National Stadium", "capacity": "45925", "year": "1976" }, "geometry": { "type": "Point", "coordinates": [ -3.806, 43.3926 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio da Cidadela", "city": "Luanda", "country": "AGO", "team": "AtlÃ©tico Sport AviaÃ§Ã£o", "capacity": "40000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 13.2344, -8.8383 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "EstÃ¡dio da Luz", "city": "Lisbon", "country": "PRT", "team": "SL Benfica", "capacity": "65647", "year": "2003" }, "geometry": { "type": "Point", "coordinates": [ -71.8839, 44.2079 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "EstÃ¡dio da Machava", "city": "Maputo", "country": "MOZ", "team": "FerroviÃ¡rio Maputo", "capacity": "60000", "year": "1968" }, "geometry": { "type": "Point", "coordinates": [ 32.5892, -25.9653 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio de Gran Canaria", "city": "Las Palmas", "country": "ESP", "team": "UD Las Palmas", "capacity": "31250", "year": "2003" }, "geometry": { "type": "Point", "coordinates": [ -15.4134, 28.0997 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio del Centenario", "city": "Resistencia", "country": "ARG", "team": "CA Sarmiento", "capacity": "35000", "year": "2011" }, "geometry": { "type": "Point", "coordinates": [ -58.9839, -27.4606 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio Dennis Martinez", "city": "Managua", "country": "NIC", "team": "National Stadium", "capacity": "30100", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ -86.2683, 12.1508 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio Deportivo CalÃ­", "city": "Palmira", "country": "COL", "team": "Deportivo CalÃ¬", "capacity": "54203", "year": "2008" }, "geometry": { "type": "Point", "coordinates": [ 16.0, 40.7833 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "EstÃ¡dio do DragÃ£o", "city": "Porto", "country": "PRT", "team": "FC Porto", "capacity": "50399", "year": "2003" }, "geometry": { "type": "Point", "coordinates": [ -8.611, 41.1496 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "EstÃ¡dio do MaracanÃ£", "city": "Rio De Janeiro", "country": "BRA", "team": "CR Flamengo", "capacity": "78838", "year": "1950" }, "geometry": { "type": "Point", "coordinates": [ -43.2333, -22.9 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "EstÃ¡dio do Restelo", "city": "Lisbon", "country": "PRT", "team": "CF Os Belenenses", "capacity": "32500", "year": "1956" }, "geometry": { "type": "Point", "coordinates": [ -71.8839, 44.2079 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "EstÃ¡dio do Zimpeto", "city": "Maputo", "country": "MOZ", "team": "National Stadium", "capacity": "42000", "year": "2011" }, "geometry": { "type": "Point", "coordinates": [ 32.5892, -25.9653 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio Felix Capriles", "city": "Cochabamba", "country": "BOL", "team": "Jorge Wilstermann", "capacity": "32000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ -66.15, -17.3833 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio Florencio SolÃ¡", "city": "Buenos Aires", "country": "ARG", "team": "CA Banfield", "capacity": "33351", "year": "1910" }, "geometry": { "type": "Point", "coordinates": [ -58.6725, -34.5875 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "EstÃ¡dio Francisco StÃ©dile", "city": "Caxias Do Sul", "country": "BRA", "team": "SER Caxias do Sul", "capacity": "30822", "year": "1976" }, "geometry": { "type": "Point", "coordinates": [ -51.1785, -29.1689 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio Hernando Siles", "city": "La Paz", "country": "BOL", "team": "Club BolÃ­var", "capacity": "42000", "year": "1997" }, "geometry": { "type": "Point", "coordinates": [ -68.15, -16.5 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio J.A. AnzoÃ¡tegui", "city": "Puerto La Cruz", "country": "VEN", "team": "Deportivo AnzoÃ¡tegui", "capacity": "41000", "year": "2007" }, "geometry": { "type": "Point", "coordinates": [ -66.5333, 5.1667 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio J.C. Zerillo", "city": "La Plata", "country": "ARG", "team": "Gimnasia y Esgrima", "capacity": "33500", "year": "1924" }, "geometry": { "type": "Point", "coordinates": [ -77.0154, 38.5163 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio J.E. Romero", "city": "Maracaibo", "country": "VEN", "team": "UA Maracaibo", "capacity": "40800", "year": "1971" }, "geometry": { "type": "Point", "coordinates": [ -71.6406, 10.6317 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "EstÃ¡dio Jacy Scaff", "city": "Londrina", "country": "BRA", "team": "Londrina EC", "capacity": "36000", "year": "1976" }, "geometry": { "type": "Point", "coordinates": [ -51.15, -23.3 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio Jalisco", "city": "Guadalajara", "country": "MEX", "team": "Club Atlas", "capacity": "63163", "year": "1958" }, "geometry": { "type": "Point", "coordinates": [ -103.3333, 20.6667 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio JosÃ© Amalfitani", "city": "Buenos Aires", "country": "ARG", "team": "CA VÃ©lez SÃ¡rsfield", "capacity": "49747", "year": "1940" }, "geometry": { "type": "Point", "coordinates": [ -58.6725, -34.5875 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio La Cartuja", "city": "Sevilla", "country": "ESP", "team": "Multi-use", "capacity": "72000", "year": "1999" }, "geometry": { "type": "Point", "coordinates": [ -5.9761, 37.3824 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio La Romareda", "city": "Zaragoza", "country": "ESP", "team": "Real Zaragoza", "capacity": "34700", "year": "1957" }, "geometry": { "type": "Point", "coordinates": [ -0.8849, 41.6453 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio Latinoamericano", "city": "La Habana", "country": "CUB", "team": "Industriales", "capacity": "55000", "year": "1946" }, "geometry": { "type": "Point", "coordinates": [ -78.3361, 21.3614 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio M. AlemÃ¡n ValdÃ©s", "city": "Celaya", "country": "MEX", "team": "Club Celaya", "capacity": "32300", "year": "1954" }, "geometry": { "type": "Point", "coordinates": [ -100.8167, 20.5167 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "EstÃ¡dio Machado", "city": "Natal", "country": "BRA", "team": "AmÃ©rica FC", "capacity": "42000", "year": "1972" }, "geometry": { "type": "Point", "coordinates": [ -35.2167, -5.7833 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "EstÃ¡dio MagalhÃ£es Pinto", "city": "Belo Horizonte", "country": "BRA", "team": "Cruzeiro EC", "capacity": "62170", "year": "1965" }, "geometry": { "type": "Point", "coordinates": [ -43.9333, -19.9167 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "EstÃ¡dio Manoel Barradas", "city": "Salvador", "country": "BRA", "team": "EC VitÃ³ria", "capacity": "35632", "year": "1986" }, "geometry": { "type": "Point", "coordinates": [ -38.5167, -12.9833 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "EstÃ¡dio Mario HelÃªnio", "city": "Juiz De Fora", "country": "BRA", "team": "SC Juiz de Fora", "capacity": "40000", "year": "1988" }, "geometry": { "type": "Point", "coordinates": [ -43.3528, -21.7517 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio Mestalla", "city": "Valencia", "country": "ESP", "team": "Valencia CF", "capacity": "53000", "year": "1923" }, "geometry": { "type": "Point", "coordinates": [ -118.5662, 34.418 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio Metropolitano", "city": "Barranquilla", "country": "COL", "team": "Junior CPD", "capacity": "46788", "year": "1986" }, "geometry": { "type": "Point", "coordinates": [ -74.7964, 10.9639 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio Modelo A. Spencer", "city": "Guayaquil", "country": "ECU", "team": "Multi-use", "capacity": "45000", "year": "1959" }, "geometry": { "type": "Point", "coordinates": [ -79.9, -2.1667 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio Monumental U", "city": "Lima", "country": "PER", "team": "Universitario", "capacity": "80093", "year": "2000" }, "geometry": { "type": "Point", "coordinates": [ -84.1319, 40.7988 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio Morelos", "city": "Morelia", "country": "MEX", "team": "Morelia", "capacity": "38384", "year": "1989" }, "geometry": { "type": "Point", "coordinates": [ -101.1167, 19.7 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio Nacional", "city": "Lima", "country": "PER", "team": "National Stadium", "capacity": "60000", "year": "1952" }, "geometry": { "type": "Point", "coordinates": [ -84.1319, 40.7988 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "EstÃ¡dio Nacional", "city": "Lisbon", "country": "PRT", "team": "National Stadium", "capacity": "39000", "year": "1944" }, "geometry": { "type": "Point", "coordinates": [ -71.8839, 44.2079 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio Nueva Condomina", "city": "Murcia", "country": "ESP", "team": "Real Murcia CF", "capacity": "33045", "year": "2006" }, "geometry": { "type": "Point", "coordinates": [ -1.13, 37.987 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio Nueva EspaÃ±a", "city": "Buenos Aires", "country": "ARG", "team": "Deportivo EspaÃ±ol", "capacity": "32500", "year": "1981" }, "geometry": { "type": "Point", "coordinates": [ -58.6725, -34.5875 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "EstÃ¡dio O AmigÃ£o", "city": "Campina Grande", "country": "BRA", "team": "Campinense Clube", "capacity": "38000", "year": "1975" }, "geometry": { "type": "Point", "coordinates": [ -35.8833, -7.2167 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio Omnilife", "city": "Zapopan", "country": "MEX", "team": "CD Guadalajara", "capacity": "45500", "year": "2010" }, "geometry": { "type": "Point", "coordinates": [ -103.4, 20.7167 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio Pas_namericano", "city": "La Habana", "country": "CUB", "team": "National Team", "capacity": "34000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ -78.3361, 21.3614 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio Pedro BidegaÃ­n", "city": "Buenos Aires", "country": "ARG", "team": "CA San Lorenzo", "capacity": "42000", "year": "1994" }, "geometry": { "type": "Point", "coordinates": [ -58.6725, -34.5875 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "EstÃ¡dio PlÃ¡cido Castelo", "city": "Fortaleza", "country": "BRA", "team": "CearÃ¡ SC", "capacity": "67037", "year": "1973" }, "geometry": { "type": "Point", "coordinates": [ -54.7667, -18.55 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "EstÃ¡dio Roberto Santos", "city": "Salvador", "country": "BRA", "team": "EC Bahia", "capacity": "32157", "year": "2009" }, "geometry": { "type": "Point", "coordinates": [ -38.5167, -12.9833 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio San MamÃ©s", "city": "Bilbao", "country": "ESP", "team": "Athletic de Bilbao", "capacity": "39750", "year": "1913" }, "geometry": { "type": "Point", "coordinates": [ -2.9388, 43.2609 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio Tecnologico", "city": "Monterrey", "country": "MEX", "team": "Rayados del Monterrey", "capacity": "38622", "year": "1950" }, "geometry": { "type": "Point", "coordinates": [ -100.3167, 25.6667 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Estadio Universitario", "city": "Toluca", "country": "MEX", "team": "Potros UAEM", "capacity": "32000", "year": "1964" }, "geometry": { "type": "Point", "coordinates": [ -89.1521, 40.985 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "EstÃ¡dio Vivaldo Lima", "city": "Manaus", "country": "BRA", "team": "Nacional FC", "capacity": "43000", "year": "1970" }, "geometry": { "type": "Point", "coordinates": [ -60.0253, -3.1133 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Etihad Stadium", "city": "Melbourne", "country": "AUS", "team": "Multi-use", "capacity": "56347", "year": "2000" }, "geometry": { "type": "Point", "coordinates": [ -80.7534, 28.0782 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "EverBank Field", "city": "Jacksonville", "country": "USA", "team": "Jacksonville Jaguars", "capacity": "76877", "year": "1995" }, "geometry": { "type": "Point", "coordinates": [ -81.499, 30.3533 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Ewood Park", "city": "Blackburn", "country": "GBR", "team": "Blackburn Rovers", "capacity": "31367", "year": "1994" }, "geometry": { "type": "Point", "coordinates": [ -2.4833, 53.75 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Faurot Field", "city": "Columbia", "country": "USA", "team": "Missouri Tigers", "capacity": "62000", "year": "1926" }, "geometry": { "type": "Point", "coordinates": [ -92.2714, 39.0437 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "FÃ©lix Houphouet-Boigny", "city": "Abidjan", "country": "CIV", "team": "National Stadium", "capacity": "45000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ -4.0127, 5.3097 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Fengtai Stadium", "city": "Beijing", "country": "CHN", "team": "Beijing Yitong Kuche", "capacity": "31043", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 116.3883, 39.9289 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Fenway Park", "city": "Boston", "country": "USA", "team": "Boston Red Sox", "capacity": "36108", "year": "1912" }, "geometry": { "type": "Point", "coordinates": [ -71.0746, 42.3496 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Fernanda Pires da Silva", "city": "Estoril", "country": "PRT", "team": "Race-use", "capacity": "45000", "year": "1972" }, "geometry": { "type": "Point", "coordinates": [ -9.3923, 38.7161 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Feroz Shah Kotla", "city": "New Delhi", "country": "IND", "team": "Delhi Daredevils", "capacity": "48000", "year": "1883" }, "geometry": { "type": "Point", "coordinates": [ 77.2, 28.6 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Fitzgerald Stadium", "city": "Killarney", "country": "IRL", "team": "Kerry County", "capacity": "43000", "year": "1936" }, "geometry": { "type": "Point", "coordinates": [ -9.5167, 52.05 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Flemington Racecourse", "city": "Melbourne", "country": "AUS", "team": "Horse Racing-use", "capacity": "130000", "year": "1927" }, "geometry": { "type": "Point", "coordinates": [ -80.7534, 28.0782 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Florida Citrus Bowl", "city": "Orlando", "country": "USA", "team": "Orlando City SC", "capacity": "70188", "year": "1936" }, "geometry": { "type": "Point", "coordinates": [ -81.2439, 28.5883 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Floyd Casey Stadium", "city": "Waco", "country": "USA", "team": "Baylor Bears", "capacity": "50000", "year": "1950" }, "geometry": { "type": "Point", "coordinates": [ -97.0926, 31.4789 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Floyd Stadium", "city": "Murfreesboro", "country": "USA", "team": "MTSU Blue Raiders", "capacity": "31788", "year": "1933" }, "geometry": { "type": "Point", "coordinates": [ -93.7089, 34.1139 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Folsom Field Stadium", "city": "Boulder", "country": "USA", "team": "Colorado Buffaloes", "capacity": "53750", "year": "1924" }, "geometry": { "type": "Point", "coordinates": [ -105.3735, 40.0878 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Ford Field", "city": "Detroit", "country": "USA", "team": "Detroit Lions", "capacity": "64500", "year": "2002" }, "geometry": { "type": "Point", "coordinates": [ -83.1386, 42.3679 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Forsyth Barr Stadium", "city": "Dunedin", "country": "NZL", "team": "Otago RFU", "capacity": "30500", "year": "2011" }, "geometry": { "type": "Point", "coordinates": [ -82.7689, 28.0288 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Franklin Field", "city": "Philadelphia", "country": "USA", "team": "Pennsylvania Quakers", "capacity": "52593", "year": "1923" }, "geometry": { "type": "Point", "coordinates": [ -75.1653, 39.9524 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Fred Yager Stadium", "city": "Oxford", "country": "USA", "team": "Miami-Ohio RedHawks", "capacity": "30012", "year": "1983" }, "geometry": { "type": "Point", "coordinates": [ -89.4833, 34.3402 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Friends Arena", "city": "Solna", "country": "SWE", "team": "AIK Fotboll", "capacity": "54329", "year": "2012" }, "geometry": { "type": "Point", "coordinates": [ 18.0167, 59.3667 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Fritz Walter Stadion", "city": "Kaiserslautern", "country": "DEU", "team": "1.FC Kaiserslautern", "capacity": "48500", "year": "1920" }, "geometry": { "type": "Point", "coordinates": [ 7.75, 49.45 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Fukuoka Dome", "city": "Fukuoka", "country": "JPN", "team": "Fukuoka SoftBank Hawks", "capacity": "35695", "year": "1993" }, "geometry": { "type": "Point", "coordinates": [ 130.4181, 33.6064 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Fukushima Racecourse", "city": "Fukushima", "country": "JPN", "team": "Horse-Racing use", "capacity": "50000", "year": "1918" }, "geometry": { "type": "Point", "coordinates": [ 140.4678, 37.75 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Gadaffi Hockey Stadium", "city": "Lahore", "country": "PAK", "team": "Hockey-use", "capacity": "45000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 74.3436, 31.5497 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Gaddafi Stadium", "city": "Lahore", "country": "PAK", "team": "Cricket-use", "capacity": "60000", "year": "1959" }, "geometry": { "type": "Point", "coordinates": [ 74.3436, 31.5497 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Gaelic Grounds", "city": "Limerick", "country": "IRL", "team": "Limerick County", "capacity": "50000", "year": "1926" }, "geometry": { "type": "Point", "coordinates": [ -8.6231, 52.6647 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Gateway Int'l Raceway", "city": "Madison", "country": "USA", "team": "Race-use", "capacity": "55000", "year": "1997" }, "geometry": { "type": "Point", "coordinates": [ -86.6991, 36.2558 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Gateway Stadium", "city": "Abeokuta", "country": "NGA", "team": "Football-use", "capacity": "35000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 3.35, 7.15 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Gaylord Family Stadium", "city": "Norman", "country": "USA", "team": "Oklahoma Sooners", "capacity": "82112", "year": "1923" }, "geometry": { "type": "Point", "coordinates": [ -97.4122, 35.233 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Gedebage Stadium", "city": "Bandung", "country": "IDN", "team": "Persib Bandung", "capacity": "72000", "year": "2013" }, "geometry": { "type": "Point", "coordinates": [ 107.6186, -6.9039 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Georgia Dome", "city": "Atlanta", "country": "USA", "team": "Atlanta Falcons", "capacity": "71149", "year": "1992" }, "geometry": { "type": "Point", "coordinates": [ 27.5655, -25.207 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Gerald J. Ford Stadium", "city": "University Park", "country": "USA", "team": "SMU Mustangs", "capacity": "32000", "year": "2000" }, "geometry": { "type": "Point", "coordinates": [ -77.8614, 40.8077 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Ghadir Stadium", "city": "Ahvaz", "country": "IRN", "team": "Foolad FC", "capacity": "51000", "year": "2012" }, "geometry": { "type": "Point", "coordinates": [ 48.6693, 31.3203 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Gillette Stadium", "city": "Foxboro", "country": "USA", "team": "New England Patriots", "capacity": "68756", "year": "2002" }, "geometry": { "type": "Point", "coordinates": [ -71.2337, 42.0608 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "GlÃ¼cksgas Stadion", "city": "Dresden", "country": "DEU", "team": "SG Dynamo Dresden", "capacity": "32066", "year": "2009" }, "geometry": { "type": "Point", "coordinates": [ -88.6714, 36.3365 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Goodison Park", "city": "Liverpool", "country": "GBR", "team": "Everton FC", "capacity": "40200", "year": "1892" }, "geometry": { "type": "Point", "coordinates": [ -76.2116, 43.1532 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Grand Stade de Marrakech", "city": "Marrakech", "country": "MAR", "team": "KAC Marrakech", "capacity": "41356", "year": "2010" }, "geometry": { "type": "Point", "coordinates": [ -8.0083, 31.6315 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Grand Stade de Tanger", "city": "Tanger", "country": "MAR", "team": "Ittihad de Tanger", "capacity": "45000", "year": "2011" }, "geometry": { "type": "Point", "coordinates": [ -5.8136, 35.7806 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Great American Ball Park", "city": "Cincinnati", "country": "USA", "team": "Cincinnati Reds", "capacity": "42059", "year": "2003" }, "geometry": { "type": "Point", "coordinates": [ -84.5382, 39.1668 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Grolsch Veste", "city": "Enschede", "country": "NLD", "team": "FC Twente", "capacity": "30205", "year": "1998" }, "geometry": { "type": "Point", "coordinates": [ 6.8912, 52.2195 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Guangdong Stadium", "city": "Guangzhou", "country": "CHN", "team": "Multi-use", "capacity": "80012", "year": "2001" }, "geometry": { "type": "Point", "coordinates": [ 113.25, 23.1167 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Hampden Park", "city": "Glasgow", "country": "GBR", "team": "Queens Park", "capacity": "50670", "year": "1999" }, "geometry": { "type": "Point", "coordinates": [ -85.9463, 36.9376 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Hanshin Racecourse", "city": "Hyogo", "country": "JPN", "team": "Horse-Racing use", "capacity": "139877", "year": "1991" }, "geometry": { "type": "Point", "coordinates": [ 144.4333, 43.3667 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Harvard Stadium", "city": "Boston", "country": "USA", "team": "Harvard Crimson", "capacity": "30898", "year": "1903" }, "geometry": { "type": "Point", "coordinates": [ -71.0746, 42.3496 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Heinz Field", "city": "Pittsburgh", "country": "USA", "team": "P'burgh Steelers\/Panthers", "capacity": "64450", "year": "2001" }, "geometry": { "type": "Point", "coordinates": [ -79.988, 40.4495 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Hernan Ramirez Villegas", "city": "Pereira", "country": "COL", "team": "Deportivo Pereira", "capacity": "30313", "year": "1971" }, "geometry": { "type": "Point", "coordinates": [ -75.6961, 4.8133 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "HH Humphrey Metrodome", "city": "Minneapolis", "country": "USA", "team": "Minnesota Twins", "capacity": "45423", "year": "1982" }, "geometry": { "type": "Point", "coordinates": [ -93.4305, 45.0059 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Hillsborough", "city": "Sheffield", "country": "GBR", "team": "Sheffield Wednesday", "capacity": "39859", "year": "1996" }, "geometry": { "type": "Point", "coordinates": [ -93.2128, 42.8772 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "HipÃ³dromo Argentino", "city": "Buenos Aires", "country": "ARG", "team": "Horse-Racing use", "capacity": "50000", "year": "1908" }, "geometry": { "type": "Point", "coordinates": [ -58.6725, -34.5875 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "HipÃ³dromo da GÃ¡vea", "city": "Rio De Janeiro", "country": "BRA", "team": "Horse Racing-use", "capacity": "80000", "year": "1875" }, "geometry": { "type": "Point", "coordinates": [ -43.2333, -22.9 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "HipÃ³dromo de San Isidro", "city": "San Isidro", "country": "ARG", "team": "Horse-Racing use", "capacity": "100000", "year": "1935" }, "geometry": { "type": "Point", "coordinates": [ -58.5078, -34.4714 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Hippodrome d'Auteuil", "city": "Paris", "country": "FRA", "team": "Horse Racing-use", "capacity": "40000", "year": "1873" }, "geometry": { "type": "Point", "coordinates": [ -84.2256, 38.2133 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Hippodrome de Longchamp", "city": "Paris", "country": "FRA", "team": "Horse Racing-use", "capacity": "50000", "year": "1857" }, "geometry": { "type": "Point", "coordinates": [ -84.2256, 38.2133 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Hippodrome de Vincennes", "city": "Paris", "country": "FRA", "team": "Horse Racing-use", "capacity": "60000", "year": "1879" }, "geometry": { "type": "Point", "coordinates": [ -84.2256, 38.2133 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Hockenheimring", "city": "Hockenheim", "country": "DEU", "team": "Race-use", "capacity": "120000", "year": "1932" }, "geometry": { "type": "Point", "coordinates": [ 8.5458, 49.3228 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Holmenkollen Stadion", "city": "Oslo", "country": "NOR", "team": "Ski-jumping use", "capacity": "55000", "year": "1892" }, "geometry": { "type": "Point", "coordinates": [ 10.75, 59.9167 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Hongkou Stadium", "city": "Shanghai", "country": "CHN", "team": "Shenhua FC", "capacity": "33060", "year": "1999" }, "geometry": { "type": "Point", "coordinates": [ 121.3997, 31.0456 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Horner Rennbahn", "city": "Hamburg", "country": "DEU", "team": "Horse Racing-use", "capacity": "50000", "year": "1869" }, "geometry": { "type": "Point", "coordinates": [ -91.7912, 33.2265 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Hrazdan Stadium", "city": "Yerevan", "country": "ARM", "team": "National Stadium", "capacity": "58000", "year": "1972" }, "geometry": { "type": "Point", "coordinates": [ 44.5136, 40.1811 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Hunter Stadium", "city": "Newcastle", "country": "AUS", "team": "Newcastle Knights RLC", "capacity": "33000", "year": "1970" }, "geometry": { "type": "Point", "coordinates": [ 29.9318, -27.758 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Huskie Stadium", "city": "De Kalb", "country": "USA", "team": "Northern Illinois Huskies", "capacity": "31000", "year": "1965" }, "geometry": { "type": "Point", "coordinates": [ -88.7219, 32.7539 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Husky Stadium", "city": "Seattle", "country": "USA", "team": "Washington Huskies", "capacity": "72500", "year": "1920" }, "geometry": { "type": "Point", "coordinates": [ -122.3284, 47.6026 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Hypo-Arena", "city": "Klagenfurt", "country": "AUT", "team": "SK Austria KÃ¤rnten", "capacity": "32000", "year": "2007" }, "geometry": { "type": "Point", "coordinates": [ 14.3053, 46.6247 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Ibrox Stadium", "city": "Glasgow", "country": "GBR", "team": "Rangers FC", "capacity": "51082", "year": "1997" }, "geometry": { "type": "Point", "coordinates": [ -85.9463, 36.9376 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Imtech Arena", "city": "Hamburg", "country": "DEU", "team": "Hamburger SV", "capacity": "57000", "year": "2000" }, "geometry": { "type": "Point", "coordinates": [ -91.7912, 33.2265 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Inca Garcilaso de la Vega", "city": "Cusco", "country": "PER", "team": "ADFP Cienciano", "capacity": "42056", "year": "1957" }, "geometry": { "type": "Point", "coordinates": [ -71.9781, -13.5183 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Independence Park", "city": "Kingston", "country": "JAM", "team": "National Stadium", "capacity": "35000", "year": "1962" }, "geometry": { "type": "Point", "coordinates": [ -73.9901, 41.9389 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Independence Stadium", "city": "Shreveport", "country": "USA", "team": "MainStay Indep. Bowl", "capacity": "50832", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ -93.8852, 32.6188 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Indian Stadium", "city": "Jonesboro", "country": "USA", "team": "Arkansas State Indians", "capacity": "33410", "year": "1974" }, "geometry": { "type": "Point", "coordinates": [ -90.6425, 35.8864 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Infineon Raceway", "city": "Sonoma", "country": "USA", "team": "Race-use", "capacity": "64000", "year": "1968" }, "geometry": { "type": "Point", "coordinates": [ -122.4602, 38.2433 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "International Speedway", "city": "Loudon", "country": "USA", "team": "Race-use", "capacity": "91000", "year": "1990" }, "geometry": { "type": "Point", "coordinates": [ -84.3743, 35.7102 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Istanbul Park", "city": "Istanbul", "country": "TUR", "team": "Race-use", "capacity": "155000", "year": "2005" }, "geometry": { "type": "Point", "coordinates": [ 28.9647, 41.0186 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Izmir AtatÃ¼rk Stadi", "city": "Izmir", "country": "TUR", "team": "GÃ¶ztepe SK", "capacity": "51295", "year": "1964" }, "geometry": { "type": "Point", "coordinates": [ 27.1384, 38.4127 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Jack Trice Stadium", "city": "Ames", "country": "USA", "team": "Iowa State Cyclones", "capacity": "45814", "year": "1975" }, "geometry": { "type": "Point", "coordinates": [ -93.5905, 42.03 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Jalak Harupat Soreang", "city": "Bandung", "country": "IDN", "team": "Persikab Bandung", "capacity": "40000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 107.6186, -6.9039 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Jamsil Stadium", "city": "Seoul", "country": "KOR", "team": "LG Twins", "capacity": "30265", "year": "1982" }, "geometry": { "type": "Point", "coordinates": [ 126.9783, 37.5985 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Jawaharlal Nehru Stadium", "city": "Chennai", "country": "IND", "team": "Football-use", "capacity": "40000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 80.2833, 13.0833 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Jeque Zayed Stadium", "city": "Abu Dhabi", "country": "ARE", "team": "National Stadium", "capacity": "49500", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 54.3667, 24.4667 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Jiangwan Sports Centre", "city": "Shanghai", "country": "CHN", "team": "Multi-use", "capacity": "40000", "year": "1935" }, "geometry": { "type": "Point", "coordinates": [ 121.3997, 31.0456 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Jingu Stadium", "city": "Tokyo", "country": "JPN", "team": "Yakult Swallows", "capacity": "37975", "year": "1925" }, "geometry": { "type": "Point", "coordinates": [ 139.7514, 35.685 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Jinnah Sport Stadium", "city": "Islamabad", "country": "PAK", "team": "ZTBL FC", "capacity": "48200", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 73.0551, 33.69 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Joan C. Edwards Stadium", "city": "Huntington", "country": "USA", "team": "Marshall Thundering Herd", "capacity": "38019", "year": "1991" }, "geometry": { "type": "Point", "coordinates": [ -82.4245, 38.3685 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Jockey Club Monterrico", "city": "Lima", "country": "PER", "team": "Horse Racing-use", "capacity": "40000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ -84.1319, 40.7988 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Joe Aillet Stadium", "city": "Ruston", "country": "USA", "team": "Louisiana Tech Bulldogs", "capacity": "30200", "year": "1968" }, "geometry": { "type": "Point", "coordinates": [ -92.6262, 32.5151 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Johannesburg Stadium", "city": "Johannesburg", "country": "ZAF", "team": "Jomo Cosmos FC", "capacity": "37500", "year": "1995" }, "geometry": { "type": "Point", "coordinates": [ 28.0498, -26.2052 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Jones AT&T Stadium", "city": "Lubbock", "country": "USA", "team": "Texas Tech Red Raiders", "capacity": "62500", "year": "1947" }, "geometry": { "type": "Point", "coordinates": [ -101.8519, 33.5903 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Jordan Hare Stadium", "city": "Auburn", "country": "USA", "team": "Auburn Tigers", "capacity": "87451", "year": "1939" }, "geometry": { "type": "Point", "coordinates": [ -122.2042, 47.3101 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "JosÃ© do Rego Maciel", "city": "Recife", "country": "BRA", "team": "Santa Cruz FC", "capacity": "66044", "year": "1972" }, "geometry": { "type": "Point", "coordinates": [ -34.9, -8.05 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "JosÃ© Luis Meiszner", "city": "Quilmes", "country": "ARG", "team": "Quilmes AC", "capacity": "33000", "year": "1993" }, "geometry": { "type": "Point", "coordinates": [ -58.2526, -34.7242 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "JosÃ© Maria Minella", "city": "Mar Del Plata", "country": "ARG", "team": "CA Aldosivi", "capacity": "43542", "year": "1978" }, "geometry": { "type": "Point", "coordinates": [ -57.5575, -38.0023 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "JosÃ© Pinheiro Borda", "city": "Porto Alegre", "country": "BRA", "team": "SC Internacional", "capacity": "58306", "year": "1969" }, "geometry": { "type": "Point", "coordinates": [ -51.2, -30.0333 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Juventus Arena", "city": "Torino", "country": "ITA", "team": "Juventus FC", "capacity": "41254", "year": "2011" }, "geometry": { "type": "Point", "coordinates": [ 7.6667, 45.05 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Kadir Has Stadi", "city": "Kayseri", "country": "TUR", "team": "Kayserispor", "capacity": "32864", "year": "2009" }, "geometry": { "type": "Point", "coordinates": [ 35.4853, 38.7322 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Kamuzu Stadium", "city": "Blantyre", "country": "MWI", "team": "Big Bullets", "capacity": "50000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 35.0, -15.7833 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Kansas Speedway", "city": "Kansas City", "country": "USA", "team": "Race-use", "capacity": "80187", "year": "2001" }, "geometry": { "type": "Point", "coordinates": [ -94.566, 39.1068 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Kaohsiung Stadium", "city": "Kaohsiung", "country": "TWN", "team": "Taipower FC", "capacity": "40000", "year": "2009" }, "geometry": { "type": "Point", "coordinates": [ 120.35, 22.6333 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Karachi National Stadium", "city": "Karachi", "country": "PAK", "team": "Karachi CA", "capacity": "34228", "year": "1955" }, "geometry": { "type": "Point", "coordinates": [ 67.0822, 24.9056 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Kauffman Stadium", "city": "Kansas City", "country": "USA", "team": "Kansas City Royals", "capacity": "38177", "year": "1973" }, "geometry": { "type": "Point", "coordinates": [ -94.566, 39.1068 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Kenan Stadium", "city": "Chapel Hill", "country": "USA", "team": "N. Carolina Tar Heels", "capacity": "60000", "year": "1927" }, "geometry": { "type": "Point", "coordinates": [ -79.041, 35.9666 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Kensington Oval", "city": "Bridgetown", "country": "BRB", "team": "Barbados Cricket", "capacity": "32000", "year": "1882" }, "geometry": { "type": "Point", "coordinates": [ -59.6167, 13.1 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Kentucky Speedway", "city": "Sparta", "country": "USA", "team": "Race-use", "capacity": "66089", "year": "2000" }, "geometry": { "type": "Point", "coordinates": [ -74.6171, 41.0544 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Khalifa Int'l Stadium", "city": "Doha", "country": "QAT", "team": "National Stadium", "capacity": "50000", "year": "2005" }, "geometry": { "type": "Point", "coordinates": [ 51.5333, 25.2867 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Khimik Stadion", "city": "Kemerovo", "country": "RUS", "team": "Kuzbass Kemerovo", "capacity": "33000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 86.0833, 55.3333 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "King Abdul Aziz", "city": "Makkah", "country": "SAU", "team": "Al Wahda", "capacity": "33500", "year": "1984" }, "geometry": { "type": "Point", "coordinates": [ 39.8261, 21.4267 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "King Fahd Int'l Stadium", "city": "Riyadh", "country": "SAU", "team": "Al Hilal\/Shabab", "capacity": "67000", "year": "1987" }, "geometry": { "type": "Point", "coordinates": [ 46.7152, 24.6537 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Kinnick Stadium", "city": "Iowa City", "country": "USA", "team": "Iowa Hawkeyes", "capacity": "70397", "year": "1929" }, "geometry": { "type": "Point", "coordinates": [ -91.5133, 41.6695 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Koning Boudewijn Stadion", "city": "Brussels", "country": "BEL", "team": "National Stadium", "capacity": "50024", "year": "1999" }, "geometry": { "type": "Point", "coordinates": [ 4.3333, 50.8333 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Koshien Stadium", "city": "Nishinomiya", "country": "JPN", "team": "Hanshin Tigers", "capacity": "50454", "year": "1921" }, "geometry": { "type": "Point", "coordinates": [ 135.3333, 34.7167 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Kuban Stadion", "city": "Krasnodar", "country": "RUS", "team": "FK Kuban Krasnodar", "capacity": "31654", "year": "1961" }, "geometry": { "type": "Point", "coordinates": [ 38.9725, 45.0488 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Kyle Field", "city": "College Station", "country": "USA", "team": "Texas A&M Aggies", "capacity": "82600", "year": "1927" }, "geometry": { "type": "Point", "coordinates": [ -96.3217, 30.6131 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Kyoto Racecourse", "city": "Kyoto", "country": "JPN", "team": "Horse-Racing use", "capacity": "120000", "year": "1999" }, "geometry": { "type": "Point", "coordinates": [ 135.7556, 35.0214 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "L.A. Memorial Coliseum", "city": "Los Angeles", "country": "USA", "team": "USC Trojans", "capacity": "93607", "year": "1923" }, "geometry": { "type": "Point", "coordinates": [ -118.2661, 34.0396 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "L'Estadi (Camp Nou)", "city": "Barcelona", "country": "ESP", "team": "FC Barcelona", "capacity": "99354", "year": "1957" }, "geometry": { "type": "Point", "coordinates": [ 2.1741, 41.3984 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Ladd Peebles Stadium", "city": "Mobile", "country": "USA", "team": "South Alabama Jaguars", "capacity": "40646", "year": "1948" }, "geometry": { "type": "Point", "coordinates": [ -88.3535, 30.6586 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Lambeau Field", "city": "Green Bay", "country": "USA", "team": "Green Bay Packers", "capacity": "72601", "year": "1957" }, "geometry": { "type": "Point", "coordinates": [ -88.0704, 44.4889 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Lane Stadium", "city": "Blacksburg", "country": "USA", "team": "Virginia Tech Hokies", "capacity": "65632", "year": "1965" }, "geometry": { "type": "Point", "coordinates": [ -80.4325, 37.2669 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Las Vegas Motor Speedway", "city": "Las Vegas", "country": "USA", "team": "Race-use", "capacity": "140000", "year": "1996" }, "geometry": { "type": "Point", "coordinates": [ -115.2118, 36.11 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "LaVell Edwards Stadium", "city": "Provo", "country": "USA", "team": "BYU Cougars", "capacity": "64045", "year": "1964" }, "geometry": { "type": "Point", "coordinates": [ -111.5709, 40.3393 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Legion Field Stadium", "city": "Birmingham", "country": "USA", "team": "UAB Blazers", "capacity": "71594", "year": "1926" }, "geometry": { "type": "Point", "coordinates": [ -86.7404, 33.4468 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "LÃ©opold SÃ©dar Senghor", "city": "Dakar", "country": "SEN", "team": "National Stadium", "capacity": "60000", "year": "1985" }, "geometry": { "type": "Point", "coordinates": [ -17.4381, 14.6708 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Levy Mwanawasa Stadium", "city": "Ndola", "country": "ZMB", "team": "National Stadium", "capacity": "40100", "year": "2011" }, "geometry": { "type": "Point", "coordinates": [ 28.6333, -12.9667 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Libertadores de AmÃ©rica", "city": "Avellaneda", "country": "ARG", "team": "CA Independiente", "capacity": "44000", "year": "2009" }, "geometry": { "type": "Point", "coordinates": [ -59.6583, -29.1176 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Liberty Bowl", "city": "Memphis", "country": "USA", "team": "Memphis Tigers", "capacity": "62380", "year": "1965" }, "geometry": { "type": "Point", "coordinates": [ -90.0936, 35.185 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Liberty Stadium", "city": "Ibadan", "country": "NGA", "team": "Football-use", "capacity": "35000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 3.8964, 7.3878 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Lincoln Financial Field", "city": "Philadelphia", "country": "USA", "team": "Philadelphia Eagles", "capacity": "68532", "year": "2003" }, "geometry": { "type": "Point", "coordinates": [ -75.1653, 39.9524 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Lokomotiv Stadion", "city": "Moscow", "country": "RUS", "team": "FK Lokomotiv Moskva", "capacity": "30979", "year": "2002" }, "geometry": { "type": "Point", "coordinates": [ -116.9179, 46.7172 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "LP Field", "city": "Nashville", "country": "USA", "team": "Titans\/State Tigers", "capacity": "68932", "year": "1999" }, "geometry": { "type": "Point", "coordinates": [ -86.777, 36.1473 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Lucas Oil Stadium", "city": "Indianapolis", "country": "USA", "team": "Indianapolis Colts", "capacity": "70000", "year": "2008" }, "geometry": { "type": "Point", "coordinates": [ -86.2853, 39.793 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Luis Pirata Fuente", "city": "Veracruz", "country": "MEX", "team": "Tiburones Rojos Veracruz", "capacity": "43154", "year": "1967" }, "geometry": { "type": "Point", "coordinates": [ -96.1333, 19.2 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Luzhniki Stadion", "city": "Moscow", "country": "RUS", "team": "Spartak\/CSKA Moskva", "capacity": "78360", "year": "1956" }, "geometry": { "type": "Point", "coordinates": [ -116.9179, 46.7172 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "LysgÃ¥rdsbakkene", "city": "Lillehammer", "country": "NOR", "team": "Ski-jumping use", "capacity": "40000", "year": "1994" }, "geometry": { "type": "Point", "coordinates": [ 10.5, 61.1333 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "M&T Bank Stadium", "city": "Baltimore", "country": "USA", "team": "Baltimore Ravens", "capacity": "69084", "year": "1998" }, "geometry": { "type": "Point", "coordinates": [ -76.6122, 39.2904 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "MA Chidambaram Stadium", "city": "Chennai", "country": "IND", "team": "Chennai Super Kings", "capacity": "50000", "year": "1916" }, "geometry": { "type": "Point", "coordinates": [ 80.2833, 13.0833 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Mackay Stadium", "city": "Reno", "country": "USA", "team": "Nevada Wolf Pack", "capacity": "31545", "year": "1967" }, "geometry": { "type": "Point", "coordinates": [ -119.7492, 39.4896 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Madya Stadium", "city": "Jakarta", "country": "IDN", "team": "Multi-use", "capacity": "40000", "year": "2004" }, "geometry": { "type": "Point", "coordinates": [ 106.8294, -6.1744 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Malone Stadium", "city": "Monroe", "country": "USA", "team": "Louisiana-Monroe Indians", "capacity": "30427", "year": "1978" }, "geometry": { "type": "Point", "coordinates": [ -83.4457, 41.9505 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Malvinas Argentinas", "city": "Mendoza", "country": "ARG", "team": "Godoy Cruz", "capacity": "34875", "year": "1978" }, "geometry": { "type": "Point", "coordinates": [ -68.8272, -32.8908 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Marlins Park", "city": "Miami", "country": "USA", "team": "Florida Marlins", "capacity": "37000", "year": "2012" }, "geometry": { "type": "Point", "coordinates": [ -80.2144, 25.9388 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Martin Stadium", "city": "Pullman", "country": "USA", "team": "WSU Cougars", "capacity": "33522", "year": "1972" }, "geometry": { "type": "Point", "coordinates": [ -117.2455, 46.7322 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Martinsville Speedway", "city": "Martinsville", "country": "USA", "team": "Race-use", "capacity": "86000", "year": "1947" }, "geometry": { "type": "Point", "coordinates": [ -79.8667, 36.7266 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Mazda Stadium", "city": "Hiroshima", "country": "JPN", "team": "Hiroshima Toyo Carp", "capacity": "32000", "year": "2009" }, "geometry": { "type": "Point", "coordinates": [ 132.4594, 34.3963 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Mbombela Stadium", "city": "Nelspruit", "country": "ZAF", "team": "Mpumalanga Black Aces", "capacity": "43500", "year": "2009" }, "geometry": { "type": "Point", "coordinates": [ 30.9703, -25.4745 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "McHale Park", "city": "Castlebar", "country": "IRL", "team": "Mayo County", "capacity": "36000", "year": "1931" }, "geometry": { "type": "Point", "coordinates": [ -9.3, 53.85 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "McMahon Stadium", "city": "Calgary", "country": "CAN", "team": "Calgary Stampeders", "capacity": "37317", "year": "1960" }, "geometry": { "type": "Point", "coordinates": [ -114.0833, 51.0833 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Melbourne Cricket Ground", "city": "Melbourne", "country": "AUS", "team": "Multi-use", "capacity": "100000", "year": "1853" }, "geometry": { "type": "Point", "coordinates": [ -80.7534, 28.0782 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Memorial Stadium", "city": "Berkeley", "country": "USA", "team": "California Golden Bears", "capacity": "63186", "year": "1923" }, "geometry": { "type": "Point", "coordinates": [ -122.2877, 37.8646 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Mercedes-Benz Arena", "city": "Stuttgart", "country": "DEU", "team": "VfB Stuttgart", "capacity": "60441", "year": "1933" }, "geometry": { "type": "Point", "coordinates": [ -91.5298, 34.4396 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Mercedes-Benz Superdome", "city": "New Orleans", "country": "USA", "team": "New Orleans Saints", "capacity": "72003", "year": "1975" }, "geometry": { "type": "Point", "coordinates": [ -90.1568, 29.9589 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "MetLife Stadium", "city": "East Rutherford", "country": "USA", "team": "New York Giants\/Jets", "capacity": "82500", "year": "2010" }, "geometry": { "type": "Point", "coordinates": [ -74.0738, 40.8132 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Metropolitano de Lara", "city": "Barquisimeto", "country": "VEN", "team": "CD Lara", "capacity": "40312", "year": "2007" }, "geometry": { "type": "Point", "coordinates": [ -69.3228, 10.0739 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Miami Speedway", "city": "Homestead", "country": "USA", "team": "Race-use", "capacity": "72000", "year": "1995" }, "geometry": { "type": "Point", "coordinates": [ -80.4187, 25.4903 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Michie Stadium", "city": "West Point", "country": "USA", "team": "Army Black Knights", "capacity": "39929", "year": "1924" }, "geometry": { "type": "Point", "coordinates": [ -88.6953, 33.6521 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Michigan Int'l Speedway", "city": "Brooklyn", "country": "USA", "team": "Race-use", "capacity": "136373", "year": "1968" }, "geometry": { "type": "Point", "coordinates": [ -73.9571, 40.6981 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Michigan Stadium", "city": "Ann Arbor", "country": "USA", "team": "Michigan Wolverines", "capacity": "109901", "year": "1927" }, "geometry": { "type": "Point", "coordinates": [ -83.7133, 42.2734 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Millennium Stadium", "city": "Cardiff", "country": "GBR", "team": "National Stadium", "capacity": "74500", "year": "1999" }, "geometry": { "type": "Point", "coordinates": [ -86.9336, 33.6457 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Miller Park", "city": "Milwaukee", "country": "USA", "team": "Milwaukee Brewers", "capacity": "42400", "year": "2001" }, "geometry": { "type": "Point", "coordinates": [ -87.8945, 43.0434 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Minute Maid Park", "city": "Houston", "country": "USA", "team": "Houston Astros", "capacity": "40950", "year": "2000" }, "geometry": { "type": "Point", "coordinates": [ -95.538, 29.8688 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Misaki Park Stadium", "city": "Kobe", "country": "JPN", "team": "Vissel Kobe", "capacity": "30132", "year": "2001" }, "geometry": { "type": "Point", "coordinates": [ 135.183, 34.6913 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Mohamed Bin Zayed Stadium", "city": "Abu Dhabi", "country": "ARE", "team": "Al Jazira", "capacity": "42056", "year": "2009" }, "geometry": { "type": "Point", "coordinates": [ 54.3667, 24.4667 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Molineux Stadium", "city": "Wolverhampton", "country": "GBR", "team": "Wolverhampton Wanderers", "capacity": "31700", "year": "1889" }, "geometry": { "type": "Point", "coordinates": [ -2.1333, 52.5833 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Monumental David Arellano", "city": "Santiago", "country": "CHL", "team": "CSD Colo Colo", "capacity": "47017", "year": "1989" }, "geometry": { "type": "Point", "coordinates": [ -70.6667, -33.45 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Monumental UNSA", "city": "Arequipa", "country": "PER", "team": "IDUNSA", "capacity": "42500", "year": "1990" }, "geometry": { "type": "Point", "coordinates": [ -71.535, -16.3989 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Mosaic Stadium", "city": "Regina", "country": "CAN", "team": "Saskatchewan Roughriders", "capacity": "30945", "year": "1946" }, "geometry": { "type": "Point", "coordinates": [ -104.6167, 50.45 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Moses Mabhida Stadium", "city": "Durban", "country": "ZAF", "team": "AmaZulu FC", "capacity": "70000", "year": "2009" }, "geometry": { "type": "Point", "coordinates": [ 31.0292, -29.8579 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Mountaineer Field", "city": "Morgantown", "country": "USA", "team": "West Virginia Mountaineers", "capacity": "63500", "year": "1980" }, "geometry": { "type": "Point", "coordinates": [ -86.7497, 37.167 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Mt Smart Stadium", "city": "Auckland", "country": "NZL", "team": "N.Z. Warriors RLC", "capacity": "35000", "year": "1989" }, "geometry": { "type": "Point", "coordinates": [ 174.7667, -36.8667 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Mubarak Stadium", "city": "Suez", "country": "EGY", "team": "El Qanah", "capacity": "45000", "year": "2008" }, "geometry": { "type": "Point", "coordinates": [ 32.55, 29.9667 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "MÃ¼hlenkopfschanze", "city": "Willingen", "country": "DEU", "team": "Ski-jumping-use", "capacity": "35000", "year": "1951" }, "geometry": { "type": "Point", "coordinates": [ 8.6167, 51.3 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Municipal de Aveiro", "city": "Aveiro", "country": "PRT", "team": "Beira-Mar", "capacity": "30678", "year": "2003" }, "geometry": { "type": "Point", "coordinates": [ -8.6455, 40.6443 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Municipal de Braga", "city": "Braga", "country": "PRT", "team": "Sporting de Braga", "capacity": "30154", "year": "2003" }, "geometry": { "type": "Point", "coordinates": [ -8.4201, 41.5503 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Murrayfield", "city": "Edinburgh", "country": "GBR", "team": "Edinburgh Rugby", "capacity": "67500", "year": "1994" }, "geometry": { "type": "Point", "coordinates": [ -85.9023, 39.3847 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "My Dinh Stadium", "city": "Hanoi", "country": "VNM", "team": "National Stadium", "capacity": "40000", "year": "2003" }, "geometry": { "type": "Point", "coordinates": [ 105.85, 21.0333 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Nagai Stadium", "city": "Osaka", "country": "JPN", "team": "Cerezo Osaka", "capacity": "50000", "year": "1996" }, "geometry": { "type": "Point", "coordinates": [ 135.52, 34.6864 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Nagoya Dome", "city": "Nagoya", "country": "JPN", "team": "Chunichi Dragons", "capacity": "40500", "year": "1997" }, "geometry": { "type": "Point", "coordinates": [ 136.9067, 35.1802 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Nakayama Racecourse", "city": "Chiba", "country": "JPN", "team": "Horse-Racing use", "capacity": "165676", "year": "1990" }, "geometry": { "type": "Point", "coordinates": [ 140.1233, 35.6047 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Namboole Stadium", "city": "Kampala", "country": "UGA", "team": "National Stadium", "capacity": "40000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 32.5656, 0.3156 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Nashville Superspeedway", "city": "Lebanon", "country": "USA", "team": "Race-use", "capacity": "50000", "year": "2001" }, "geometry": { "type": "Point", "coordinates": [ -74.82, 40.6421 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "National Arena", "city": "Bucharest", "country": "ROM", "team": "National Team", "capacity": "55600", "year": "2011" }, "geometry": { "type": "Point", "coordinates": [ 26.1, 44.4333 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "National Complex", "city": "Monrovia", "country": "LBR", "team": "National Stadium", "capacity": "35000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ -117.9919, 34.1539 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "National Olympic", "city": "Phnom Penh", "country": "KHM", "team": "Khemera FC", "capacity": "50000", "year": "1964" }, "geometry": { "type": "Point", "coordinates": [ 104.9167, 11.55 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "National Sports Stadium", "city": "Harare", "country": "ZWE", "team": "National Stadium", "capacity": "60000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 31.0447, -17.8178 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "National Stadium", "city": "Freetown", "country": "SLE", "team": "National Stadium", "capacity": "36000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ -13.2342, 8.49 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Nationals Ballpark", "city": "Washington", "country": "USA", "team": "Washington Nationals", "capacity": "41888", "year": "2008" }, "geometry": { "type": "Point", "coordinates": [ -77.0325, 38.8749 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Nazareth Speedway", "city": "Nazareth", "country": "USA", "team": "Race-use", "capacity": "37424", "year": "1966" }, "geometry": { "type": "Point", "coordinates": [ -75.3062, 40.753 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Negeri Pulau Pinang", "city": "Penang", "country": "MYS", "team": "Penang FA", "capacity": "40000", "year": "2000" }, "geometry": { "type": "Point", "coordinates": [ 100.3354, 5.4112 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Nelson Mandela Stadium", "city": "Port Elizabeth", "country": "ZAF", "team": "Mighty Elephants", "capacity": "48459", "year": "2009" }, "geometry": { "type": "Point", "coordinates": [ 25.5701, -33.918 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Neuer Tivoli", "city": "Aachen", "country": "DEU", "team": "Alemannia Aachen", "capacity": "32900", "year": "2009" }, "geometry": { "type": "Point", "coordinates": [ 6.1053, 50.7708 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Newlands Stadium", "city": "Cape Town", "country": "ZAF", "team": "Stormers Super 14", "capacity": "50900", "year": "1989" }, "geometry": { "type": "Point", "coordinates": [ 18.4232, -33.9258 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Newmarket Racecourse", "city": "Newmarket", "country": "GBR", "team": "Horse Racing use", "capacity": "45000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ -79.4526, 44.058 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Neyland Stadium", "city": "Knoxville", "country": "USA", "team": "Tennessee Volunteers", "capacity": "102037", "year": "1921" }, "geometry": { "type": "Point", "coordinates": [ -83.9147, 36.0582 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Niigata Racecourse", "city": "Niigata", "country": "JPN", "team": "Horse-Racing use", "capacity": "75000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 139.0236, 37.9022 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Niigata Stadium", "city": "Niigata", "country": "JPN", "team": "Albirex Niigata", "capacity": "42700", "year": "2001" }, "geometry": { "type": "Point", "coordinates": [ 139.0236, 37.9022 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Nippert Stadium", "city": "Cincinnati", "country": "USA", "team": "Cincinnati Bearcats", "capacity": "35000", "year": "1916" }, "geometry": { "type": "Point", "coordinates": [ -84.5382, 39.1668 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Notre Dame Stadium", "city": "South Bend", "country": "USA", "team": "Notre Dame Fighting Irish", "capacity": "80795", "year": "1930" }, "geometry": { "type": "Point", "coordinates": [ -86.25, 41.6834 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Nottingham City Ground", "city": "Nottingham", "country": "GBR", "team": "Nottingham Forest", "capacity": "30602", "year": "1898" }, "geometry": { "type": "Point", "coordinates": [ -76.492, 39.3892 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "O.co Coliseum", "city": "Oakland", "country": "USA", "team": "Oakland Raiders", "capacity": "63026", "year": "1966" }, "geometry": { "type": "Point", "coordinates": [ -89.4996, 35.2199 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Ohene Djan Stadium", "city": "Accra", "country": "GHA", "team": "National Stadium", "capacity": "40000", "year": "2007" }, "geometry": { "type": "Point", "coordinates": [ -0.2167, 5.55 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Ohio Stadium", "city": "Columbus", "country": "USA", "team": "Ohio State Buckeyes", "capacity": "102329", "year": "1922" }, "geometry": { "type": "Point", "coordinates": [ -82.9588, 39.8928 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Old Trafford", "city": "Manchester", "country": "GBR", "team": "Manchester United", "capacity": "76098", "year": "1910" }, "geometry": { "type": "Point", "coordinates": [ -71.4435, 42.9403 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "OlÃ­mpic LluÃ­s Companys", "city": "Barcelona", "country": "ESP", "team": "Multi-use", "capacity": "56000", "year": "1927" }, "geometry": { "type": "Point", "coordinates": [ 2.1741, 41.3984 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "OlÃ­mpico Atahualpa", "city": "Quito", "country": "ECU", "team": "National Stadium", "capacity": "41000", "year": "1951" }, "geometry": { "type": "Point", "coordinates": [ -78.5, -0.2167 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "OlÃ­mpico JoÃ£o Havelange", "city": "Rio De Janeiro", "country": "BRA", "team": "Botafogo FR", "capacity": "46931", "year": "2007" }, "geometry": { "type": "Point", "coordinates": [ -43.2333, -22.9 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Olimpico Metropolitano", "city": "San Pedro Sula", "country": "HND", "team": "CD Marathon", "capacity": "40000", "year": "1997" }, "geometry": { "type": "Point", "coordinates": [ -88.0333, 15.5 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "OlÃ­mpico Monumental", "city": "Porto Alegre", "country": "BRA", "team": "Football-use", "capacity": "47000", "year": "1954" }, "geometry": { "type": "Point", "coordinates": [ -51.2, -30.0333 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Olympiastadion", "city": "Berlin", "country": "DEU", "team": "Hertha BSC", "capacity": "76065", "year": "1936" }, "geometry": { "type": "Point", "coordinates": [ -71.2707, 44.4338 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Olympic Center Stadium", "city": "Tianjin", "country": "CHN", "team": "Tianjin Songjiang", "capacity": "60000", "year": "2007" }, "geometry": { "type": "Point", "coordinates": [ 117.1767, 39.1422 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Olympic Sports Center", "city": "Nanjing", "country": "CHN", "team": "Jiangsu Guoxin Sainty FC", "capacity": "61443", "year": "2005" }, "geometry": { "type": "Point", "coordinates": [ 118.7778, 32.0617 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Olympic Sports Centre", "city": "Chongqing", "country": "CHN", "team": "Chongqing FC", "capacity": "58680", "year": "2004" }, "geometry": { "type": "Point", "coordinates": [ 106.5528, 29.5628 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Olympic Stadium", "city": "London", "country": "GBR", "team": "Multi-use", "capacity": "80000", "year": "2011" }, "geometry": { "type": "Point", "coordinates": [ 30.8667, -24.7667 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Oriole Park at Camden Yards", "city": "Baltimore", "country": "USA", "team": "Baltimore Orioles", "capacity": "45971", "year": "1992" }, "geometry": { "type": "Point", "coordinates": [ -76.6122, 39.2904 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Orlando Stadium", "city": "Orlando", "country": "ZAF", "team": "Moroka Swallows", "capacity": "40000", "year": "2008" }, "geometry": { "type": "Point", "coordinates": [ -81.2439, 28.5883 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Osaka Dome", "city": "Osaka", "country": "JPN", "team": "Orix Buffaloes", "capacity": "36477", "year": "1997" }, "geometry": { "type": "Point", "coordinates": [ 135.52, 34.6864 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Oscar Alfredo Galvez", "city": "Buenos Aires", "country": "ARG", "team": "Race-use", "capacity": "45000", "year": "1952" }, "geometry": { "type": "Point", "coordinates": [ -58.6725, -34.5875 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Oulton Park", "city": "Tarporley", "country": "GBR", "team": "Race-use", "capacity": "45000", "year": "1926" }, "geometry": { "type": "Point", "coordinates": [ -2.6667, 53.15 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "PÃ¡irc UÃ­ Chaoimh", "city": "Cork", "country": "IRL", "team": "Cork County", "capacity": "43000", "year": "1976" }, "geometry": { "type": "Point", "coordinates": [ -8.4958, 51.8986 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Paju Public Stadium", "city": "Paju", "country": "KOR", "team": "Multi-use", "capacity": "35000", "year": "2001" }, "geometry": { "type": "Point", "coordinates": [ 22.6833, 60.7833 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Panathenaic Stadium", "city": "Athens", "country": "GRC", "team": "Multi-use", "capacity": "45000", "year": "BC" }, "geometry": { "type": "Point", "coordinates": [ -73.8294, 42.2823 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Parc des Princes", "city": "Paris", "country": "FRA", "team": "Paris Saint-Germain", "capacity": "48712", "year": "1998" }, "geometry": { "type": "Point", "coordinates": [ -84.2256, 38.2133 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Parque Independencia", "city": "Rosario", "country": "ARG", "team": "Newell's Old Boys", "capacity": "38095", "year": "1979" }, "geometry": { "type": "Point", "coordinates": [ -60.6393, -32.9468 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Paul Brown Stadium", "city": "Cincinnati", "country": "USA", "team": "Cincinnati Bengals", "capacity": "65352", "year": "2000" }, "geometry": { "type": "Point", "coordinates": [ -84.5382, 39.1668 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Pearse Stadium", "city": "Galway", "country": "IRL", "team": "Galway County", "capacity": "34000", "year": "2003" }, "geometry": { "type": "Point", "coordinates": [ -9.0489, 53.2719 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Pendleton Round-Up", "city": "Pendleton", "country": "USA", "team": "Rodeo-use", "capacity": "50000", "year": "1910" }, "geometry": { "type": "Point", "coordinates": [ -118.7977, 45.7354 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Peoples Football Stadium", "city": "Karachi", "country": "PAK", "team": "HBL FC", "capacity": "40000", "year": "1995" }, "geometry": { "type": "Point", "coordinates": [ 67.0822, 24.9056 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Perak Stadium", "city": "Ipoh", "country": "MYS", "team": "Perak FA", "capacity": "35000", "year": "1997" }, "geometry": { "type": "Point", "coordinates": [ 101.0829, 4.5841 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "PETCO Park", "city": "San Diego", "country": "USA", "team": "San Diego Padres", "capacity": "46000", "year": "2004" }, "geometry": { "type": "Point", "coordinates": [ -117.2079, 32.9014 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "PGE Arena Gdansk", "city": "Gdansk", "country": "POL", "team": "Lechia Gdansk", "capacity": "42105", "year": "2011" }, "geometry": { "type": "Point", "coordinates": [ 18.6583, 54.3608 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Phakisa Freeway", "city": "Welkom", "country": "ZAF", "team": "Race-use", "capacity": "60000", "year": "1998" }, "geometry": { "type": "Point", "coordinates": [ 26.7066, -27.9864 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Philip II Arena", "city": "Skopje", "country": "MKD", "team": "National Stadium", "capacity": "36400", "year": "1947" }, "geometry": { "type": "Point", "coordinates": [ 21.4333, 42.0 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Philips Stadion", "city": "Eindhoven", "country": "NLD", "team": "PSV", "capacity": "36500", "year": "1913" }, "geometry": { "type": "Point", "coordinates": [ 5.4667, 51.45 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Phoenix Int'l Raceway", "city": "Phoenix", "country": "USA", "team": "Race-use", "capacity": "78000", "year": "1964" }, "geometry": { "type": "Point", "coordinates": [ -112.0955, 33.5586 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Pikes Peak Int'l Raceway", "city": "Fountain", "country": "USA", "team": "Race-use", "capacity": "42787", "year": "1997" }, "geometry": { "type": "Point", "coordinates": [ -77.6294, 35.6942 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Pimlico Race Course", "city": "Baltimore", "country": "USA", "team": "Horse-Racing use", "capacity": "98983", "year": "1870" }, "geometry": { "type": "Point", "coordinates": [ -76.6122, 39.2904 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "PJ Cardinal Stadium", "city": "Louisville", "country": "USA", "team": "Louisville Cardinals", "capacity": "56000", "year": "1998" }, "geometry": { "type": "Point", "coordinates": [ -85.8495, 38.0858 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Plovdiv Stadion", "city": "Plovdiv", "country": "BGR", "team": "Multi-use", "capacity": "48000", "year": "1950" }, "geometry": { "type": "Point", "coordinates": [ 24.75, 42.15 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "PNC Park", "city": "Pittsburgh", "country": "USA", "team": "Pittsburgh Pirates", "capacity": "37898", "year": "2001" }, "geometry": { "type": "Point", "coordinates": [ -79.988, 40.4495 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Pocono Raceway", "city": "Long Pond", "country": "USA", "team": "Race-use", "capacity": "65000", "year": "1968" }, "geometry": { "type": "Point", "coordinates": [ -75.4616, 41.0605 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Pontiac Silverdome", "city": "Pontiac", "country": "USA", "team": "Football-use", "capacity": "80311", "year": "1975" }, "geometry": { "type": "Point", "coordinates": [ -83.2796, 42.644 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Portland Int'l Raceway", "city": "Portland", "country": "USA", "team": "Race-use", "capacity": "66000", "year": "1960" }, "geometry": { "type": "Point", "coordinates": [ -122.5535, 45.4691 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Portman Road", "city": "Ipswich", "country": "GBR", "team": "Ipswich Town", "capacity": "30300", "year": "1884" }, "geometry": { "type": "Point", "coordinates": [ -70.847, 42.6825 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Premadasa Stadium", "city": "Colombo", "country": "LKA", "team": "National Stadium", "capacity": "35000", "year": "1986" }, "geometry": { "type": "Point", "coordinates": [ 79.8478, 6.9319 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Presidente PerÃ³n", "city": "Avellaneda", "country": "ARG", "team": "Racing Club", "capacity": "51389", "year": "1950" }, "geometry": { "type": "Point", "coordinates": [ -59.6583, -29.1176 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Pride Park", "city": "Derby", "country": "GBR", "team": "Derby County", "capacity": "33597", "year": "1997" }, "geometry": { "type": "Point", "coordinates": [ -73.1019, 41.3333 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Prince Mohamed bin Fahd", "city": "Dammam", "country": "SAU", "team": "Al Ittifaq", "capacity": "35000", "year": "1973" }, "geometry": { "type": "Point", "coordinates": [ 50.1033, 26.4344 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Princes Park", "city": "Melbourne", "country": "AUS", "team": "Multi-use", "capacity": "35000", "year": "1987" }, "geometry": { "type": "Point", "coordinates": [ -80.7534, 28.0782 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Progressive Field", "city": "Cleveland", "country": "USA", "team": "Cleveland Indians", "capacity": "43068", "year": "1994" }, "geometry": { "type": "Point", "coordinates": [ -81.5366, 41.4379 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Qualcomm Stadium", "city": "San Diego", "country": "USA", "team": "San Diego Chargers", "capacity": "71294", "year": "1967" }, "geometry": { "type": "Point", "coordinates": [ -117.2079, 32.9014 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Queensland Centre", "city": "Brisbane", "country": "AUS", "team": "Athletics-use", "capacity": "48400", "year": "1982" }, "geometry": { "type": "Point", "coordinates": [ -122.4107, 37.6861 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Rajamangala Stadium", "city": "Bangkok", "country": "THA", "team": "National Stadium", "capacity": "65000", "year": "1998" }, "geometry": { "type": "Point", "coordinates": [ 100.5014, 13.754 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Rajiv Gandhi Stadium", "city": "Hyderabad", "country": "IND", "team": "Deccan Chargers", "capacity": "55000", "year": "2004" }, "geometry": { "type": "Point", "coordinates": [ 78.4744, 17.3753 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Ralph Wilson Stadium", "city": "Orchard Park", "country": "USA", "team": "Buffalo Bills", "capacity": "73967", "year": "1973" }, "geometry": { "type": "Point", "coordinates": [ -78.7442, 42.7442 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "RamÃ³n SÃ¡nchez PizjuÃ¡n", "city": "Sevilla", "country": "ESP", "team": "Sevilla FC", "capacity": "55000", "year": "1958" }, "geometry": { "type": "Point", "coordinates": [ -5.9761, 37.3824 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "RamÃ³n Tahuichi Aguilera", "city": "Santa Cruz", "country": "BOL", "team": "Blooming Santa Cruz", "capacity": "38000", "year": "1939" }, "geometry": { "type": "Point", "coordinates": [ -122.1021, 37.0448 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Rangers Ballpark", "city": "Arlington", "country": "USA", "team": "Texas Rangers", "capacity": "48114", "year": "1994" }, "geometry": { "type": "Point", "coordinates": [ -77.0987, 38.86 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Ranji Stadium", "city": "Calcutta", "country": "IND", "team": "Kolkata Knight Riders", "capacity": "90000", "year": "1864" }, "geometry": { "type": "Point", "coordinates": [ 88.3697, 22.5697 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Raymond James Stadium", "city": "Tampa", "country": "USA", "team": "Tampa Bay Buccaneers", "capacity": "65647", "year": "1998" }, "geometry": { "type": "Point", "coordinates": [ -82.524, 27.943 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Razorback Stadium", "city": "Fayetteville", "country": "USA", "team": "Arkansas Razorbacks", "capacity": "72000", "year": "1953" }, "geometry": { "type": "Point", "coordinates": [ -78.9336, 35.0785 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Red Bull Arena", "city": "Salzburg", "country": "AUT", "team": "Red Bull Salzburg", "capacity": "31835", "year": "2007" }, "geometry": { "type": "Point", "coordinates": [ 13.0333, 47.8 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Reliant Stadium", "city": "Houston", "country": "USA", "team": "Houston Texans", "capacity": "71054", "year": "2002" }, "geometry": { "type": "Point", "coordinates": [ -95.538, 29.8688 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Rentschler Field", "city": "East Hartford", "country": "USA", "team": "UConn Huskies", "capacity": "40000", "year": "2003" }, "geometry": { "type": "Point", "coordinates": [ -72.6214, 41.7776 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Republikan Spartak", "city": "Vladikavkaz", "country": "RUS", "team": "FK Alania Vladikavkaz", "capacity": "32574", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 44.6678, 43.0367 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Reser Stadium", "city": "Corvallis", "country": "USA", "team": "Oregon State Beavers", "capacity": "44000", "year": "1953" }, "geometry": { "type": "Point", "coordinates": [ -123.343, 44.4698 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "rewirpowerSTADION", "city": "Bochum", "country": "DEU", "team": "VfL Bochum", "capacity": "32645", "year": "1919" }, "geometry": { "type": "Point", "coordinates": [ 7.2167, 51.4833 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "RFK Memorial Stadium", "city": "Washington", "country": "USA", "team": "DC United", "capacity": "56454", "year": "1961" }, "geometry": { "type": "Point", "coordinates": [ -77.0325, 38.8749 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Riau Main Stadium", "city": "Pekanbaru", "country": "IDN", "team": "Football-use", "capacity": "43923", "year": "2012" }, "geometry": { "type": "Point", "coordinates": [ 101.45, 0.5333 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Rice Stadium", "city": "Houston", "country": "USA", "team": "Rice Owls", "capacity": "70000", "year": "1950" }, "geometry": { "type": "Point", "coordinates": [ -95.538, 29.8688 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Rice-Eccles Stadium", "city": "Salt Lake City", "country": "USA", "team": "Utah Utes", "capacity": "46500", "year": "1982" }, "geometry": { "type": "Point", "coordinates": [ -111.8911, 40.7608 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Richmond Int'l Raceway", "city": "Richmond", "country": "USA", "team": "Race-use", "capacity": "105000", "year": "1946" }, "geometry": { "type": "Point", "coordinates": [ -77.4888, 37.5858 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Ricoh Arena", "city": "Coventry", "country": "GBR", "team": "Coventry City FC", "capacity": "32000", "year": "2005" }, "geometry": { "type": "Point", "coordinates": [ -71.6395, 41.6933 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Riverside Stadium", "city": "Middlesbrough", "country": "GBR", "team": "Middlesbrough FC", "capacity": "35049", "year": "1997" }, "geometry": { "type": "Point", "coordinates": [ -1.1628, 54.5728 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Roberts Stadium", "city": "Hattiesburg", "country": "USA", "team": "S. Miss Golden Eagles", "capacity": "36500", "year": "1976" }, "geometry": { "type": "Point", "coordinates": [ -89.2723, 31.2622 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Rockingham Speedway", "city": "Corby", "country": "GBR", "team": "Race-use", "capacity": "52000", "year": "2001" }, "geometry": { "type": "Point", "coordinates": [ -0.6667, 52.4833 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Rockingham_Speedway", "city": "Rockingham", "country": "USA", "team": "Race-use", "capacity": "34500", "year": "1965" }, "geometry": { "type": "Point", "coordinates": [ -79.767, 34.9302 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Rogers Centre", "city": "Toronto", "country": "CAN", "team": "Toronto Argonauts", "capacity": "53000", "year": "1989" }, "geometry": { "type": "Point", "coordinates": [ -80.6709, 40.4903 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Rose Bowl Stadium", "city": "Pasadena", "country": "USA", "team": "UCLA Bruins", "capacity": "92542", "year": "1922" }, "geometry": { "type": "Point", "coordinates": [ -118.1296, 34.1379 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Route de Lorient", "city": "Rennes", "country": "FRA", "team": "Stade Rennais FC", "capacity": "31127", "year": "2001" }, "geometry": { "type": "Point", "coordinates": [ -1.6743, 48.112 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Royal Windsor Racecourse", "city": "Windsor", "country": "GBR", "team": "Horse Racing-use", "capacity": "35000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ -72.4566, 43.4883 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Rubber Bowl", "city": "Akron", "country": "USA", "team": "Football-use", "capacity": "35202", "year": "1940" }, "geometry": { "type": "Point", "coordinates": [ -81.6374, 41.1537 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Rufaro Stadium", "city": "Harare", "country": "ZWE", "team": "Dynamos FC", "capacity": "35000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 31.0447, -17.8178 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Rutgers Stadium", "city": "Piscataway", "country": "USA", "team": "Rutgers Scarlet Knights", "capacity": "52454", "year": "1994" }, "geometry": { "type": "Point", "coordinates": [ -74.4637, 40.5516 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Ryan Field", "city": "Evanston", "country": "USA", "team": "Northwestern Wildcats", "capacity": "47130", "year": "1926" }, "geometry": { "type": "Point", "coordinates": [ -87.7011, 42.0562 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Rynearson Stadium", "city": "Ypsilanti", "country": "USA", "team": "E. Michigan Eagles", "capacity": "30200", "year": "1969" }, "geometry": { "type": "Point", "coordinates": [ -83.6228, 42.2061 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Safeco Field", "city": "Seattle", "country": "USA", "team": "Seattle Mariners", "capacity": "47116", "year": "1999" }, "geometry": { "type": "Point", "coordinates": [ -122.3284, 47.6026 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "SalpausselkÃ¤", "city": "Lahti", "country": "FIN", "team": "Lahden Hiihtoseura", "capacity": "60000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 25.6667, 60.9667 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Saltlake Stadium", "city": "Calcutta", "country": "IND", "team": "Football-use", "capacity": "120000", "year": "1984" }, "geometry": { "type": "Point", "coordinates": [ 88.3697, 22.5697 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Sam Boyd Stadium", "city": "Las Vegas", "country": "USA", "team": "UNLV Rebels", "capacity": "36800", "year": "1971" }, "geometry": { "type": "Point", "coordinates": [ -115.2118, 36.11 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Samen Stadium", "city": "Mashhad", "country": "IRN", "team": "Abomoslem Mashhad", "capacity": "35000", "year": "2004" }, "geometry": { "type": "Point", "coordinates": [ 59.6062, 36.297 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Sanford Stadium", "city": "Athens", "country": "USA", "team": "Georgia Bulldogs", "capacity": "92746", "year": "1929" }, "geometry": { "type": "Point", "coordinates": [ -73.8294, 42.2823 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Sang-am Stadium", "city": "Seoul", "country": "KOR", "team": "FC Seoul", "capacity": "64677", "year": "2001" }, "geometry": { "type": "Point", "coordinates": [ 126.9783, 37.5985 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Santa Anita Park", "city": "Arcadia", "country": "USA", "team": "Horse-Racing use", "capacity": "85000", "year": "1934" }, "geometry": { "type": "Point", "coordinates": [ -92.8844, 32.5684 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Santiago Bernabeu", "city": "Madrid", "country": "ESP", "team": "Real Madrid CF", "capacity": "80354", "year": "1947" }, "geometry": { "type": "Point", "coordinates": [ -3.6922, 40.4086 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Sarawak Stadium", "city": "Kuching", "country": "MYS", "team": "Sarawak FA", "capacity": "40000", "year": "1997" }, "geometry": { "type": "Point", "coordinates": [ 110.3333, 1.55 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Sardar Patel Stadium", "city": "Ahmedabad", "country": "IND", "team": "Rajasthan Royals", "capacity": "54000", "year": "1982" }, "geometry": { "type": "Point", "coordinates": [ 72.6167, 23.0333 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Schauinsland-Reisen-Arena", "city": "Duisburg", "country": "DEU", "team": "MSV Duisburg", "capacity": "31000", "year": "2004" }, "geometry": { "type": "Point", "coordinates": [ 6.75, 51.4333 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Scott Stadium", "city": "Charlottesville", "country": "USA", "team": "Virginia Cavaliers", "capacity": "61500", "year": "1931" }, "geometry": { "type": "Point", "coordinates": [ -78.3966, 38.098 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Semple Stadium", "city": "Thurles", "country": "IRL", "team": "Tipperary County", "capacity": "55000", "year": "1910" }, "geometry": { "type": "Point", "coordinates": [ -7.8022, 52.6819 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Sepang F1 Circuit", "city": "Kuala Lumpur", "country": "MYS", "team": "Race-use", "capacity": "80000", "year": "1999" }, "geometry": { "type": "Point", "coordinates": [ 101.7, 3.1667 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "SGL Arena", "city": "Augsburg", "country": "DEU", "team": "FC Augsburg", "capacity": "30660", "year": "2009" }, "geometry": { "type": "Point", "coordinates": [ 10.8833, 48.3667 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Shah Alam Stadium", "city": "Shah Alam", "country": "MYS", "team": "Selangor FA", "capacity": "69372", "year": "1994" }, "geometry": { "type": "Point", "coordinates": [ 101.5333, 3.0833 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Shandong Stadium", "city": "Jinan", "country": "CHN", "team": "Shandong Luneng", "capacity": "43700", "year": "1988" }, "geometry": { "type": "Point", "coordinates": [ 116.9972, 36.6683 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Shanghai Int'l Circuit", "city": "Shanghai", "country": "CHN", "team": "Race-use", "capacity": "200000", "year": "2004" }, "geometry": { "type": "Point", "coordinates": [ 121.3997, 31.0456 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Shanghai Stadium", "city": "Shanghai", "country": "CHN", "team": "Multi-use", "capacity": "80000", "year": "1997" }, "geometry": { "type": "Point", "coordinates": [ 121.3997, 31.0456 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Shenzhen Stadium", "city": "Shenzhen", "country": "CHN", "team": "Shenzhen Yihua Jewellery", "capacity": "33000", "year": "1993" }, "geometry": { "type": "Point", "coordinates": [ 114.1333, 22.5333 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Sher-e-Bangla Mirpur", "city": "Dhaka", "country": "BGD", "team": "Dhaka Gladiators", "capacity": "42000", "year": "1970" }, "geometry": { "type": "Point", "coordinates": [ 90.4086, 23.7231 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Shiraz Stadium", "city": "Shiraz", "country": "IRN", "team": "Football-use", "capacity": "50000", "year": "2010" }, "geometry": { "type": "Point", "coordinates": [ 52.5388, 29.6036 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Signal Iduna Park", "city": "Dortmund", "country": "DEU", "team": "Borussia Dortmund", "capacity": "81264", "year": "1974" }, "geometry": { "type": "Point", "coordinates": [ 7.45, 51.5167 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Silverstone Circuit", "city": "Silverstone", "country": "GBR", "team": "Race-use", "capacity": "90000", "year": "1948" }, "geometry": { "type": "Point", "coordinates": [ -1.0167, 52.0833 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "SKA SKVO Stadion", "city": "Rostov-na-donu", "country": "RUS", "team": "SKA Rostov-na-Donu", "capacity": "33300", "year": "2002" }, "geometry": { "type": "Point", "coordinates": [ 39.7233, 47.2313 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Skelly Field", "city": "Tulsa", "country": "USA", "team": "Tulsa Golden Hurricane", "capacity": "35542", "year": "1930" }, "geometry": { "type": "Point", "coordinates": [ -96.0712, 36.0492 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Skymark Stadium", "city": "Kobe", "country": "JPN", "team": "Orix Buffaloes", "capacity": "35000", "year": "1988" }, "geometry": { "type": "Point", "coordinates": [ 135.183, 34.6913 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Soccer City Stadium", "city": "Johannesburg", "country": "ZAF", "team": "Kaizer Chiefs FC", "capacity": "91141", "year": "2009" }, "geometry": { "type": "Point", "coordinates": [ 28.0498, -26.2052 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Solvalla Travbana", "city": "Stockholm", "country": "SWE", "team": "Horse-Racing-use", "capacity": "35000", "year": "1927" }, "geometry": { "type": "Point", "coordinates": [ 18.05, 59.3333 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Spartan Stadium", "city": "East Lansing", "country": "USA", "team": "Michigan State Spartans", "capacity": "72027", "year": "1957" }, "geometry": { "type": "Point", "coordinates": [ -84.4427, 42.7627 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Sports Authority Field", "city": "Denver", "country": "USA", "team": "Denver Broncos", "capacity": "76125", "year": "2001" }, "geometry": { "type": "Point", "coordinates": [ -104.9995, 39.7525 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Sports Direct Arena", "city": "Newcastle", "country": "GBR", "team": "Newcastle United", "capacity": "52387", "year": "2000" }, "geometry": { "type": "Point", "coordinates": [ 29.9318, -27.758 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Spruce Meadows", "city": "Calgary", "country": "CAN", "team": "Horse-jumping-use", "capacity": "32000", "year": "1975" }, "geometry": { "type": "Point", "coordinates": [ -114.0833, 51.0833 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Sree Kanteerava Stadium", "city": "Bangalore", "country": "IND", "team": "HAL SC", "capacity": "40000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 77.5833, 12.9833 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "St. Andrews Stadium", "city": "Birmingham", "country": "GBR", "team": "Birmingham City FC", "capacity": "30016", "year": "1906" }, "geometry": { "type": "Point", "coordinates": [ -86.7404, 33.4468 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "St. Jakob Park", "city": "Basel", "country": "CHE", "team": "FC Basel", "capacity": "38512", "year": "2001" }, "geometry": { "type": "Point", "coordinates": [ 7.5733, 47.5584 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "St. Mary's Stadium", "city": "Southampton", "country": "GBR", "team": "Southampton", "capacity": "32000", "year": "2001" }, "geometry": { "type": "Point", "coordinates": [ -72.4178, 40.9077 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "St. Tiernach's Park", "city": "Clones", "country": "IRL", "team": "Monaghan County", "capacity": "36000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ -7.2333, 54.1833 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stade 19 Mai 1956", "city": "Annaba", "country": "DZA", "team": "USM Annaba", "capacity": "50000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 7.7667, 36.9 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stade 26 mars", "city": "Bamako", "country": "MLI", "team": "National Stadium", "capacity": "50000", "year": "2001" }, "geometry": { "type": "Point", "coordinates": [ -8.0, 12.65 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stade 5 Juillet 1962", "city": "Algiers", "country": "DZA", "team": "MC Alger", "capacity": "66000", "year": "1976" }, "geometry": { "type": "Point", "coordinates": [ 3.0506, 36.7631 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stade Ahmed Zabana", "city": "Oran", "country": "DZA", "team": "MC Oran", "capacity": "50000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ -0.6417, 35.6911 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stade Chaban Delmas", "city": "Bordeaux", "country": "FRA", "team": "FCG Bordeaux", "capacity": "34327", "year": "1938" }, "geometry": { "type": "Point", "coordinates": [ -0.5805, 44.8404 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stade d'Agadir", "city": "Agadir", "country": "MAR", "team": "Hassania Agadir", "capacity": "45480", "year": "2013" }, "geometry": { "type": "Point", "coordinates": [ -9.6, 30.4 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stade d'AngondjÃ©", "city": "Libreville", "country": "GAB", "team": "National Stadium", "capacity": "40000", "year": "2011" }, "geometry": { "type": "Point", "coordinates": [ 9.45, 0.3833 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stade d'Honneur", "city": "Oujda", "country": "MAR", "team": "MC Oujda", "capacity": "35000", "year": "1977" }, "geometry": { "type": "Point", "coordinates": [ -1.9114, 34.6867 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stade de France", "city": "Saint-denis", "country": "FRA", "team": "National Stadium", "capacity": "79959", "year": "1998" }, "geometry": { "type": "Point", "coordinates": [ 2.3548, 48.9342 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stade de Gerland", "city": "Lyon", "country": "FRA", "team": "Olympique Lyonnais", "capacity": "43051", "year": "1920" }, "geometry": { "type": "Point", "coordinates": [ 4.8467, 45.7485 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stade de l'AmitiÃ©", "city": "Cotonou", "country": "BEN", "team": "National Stadium", "capacity": "35000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 2.4333, 6.35 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stade de l'UnitÃ©", "city": "Conakry", "country": "GIN", "team": "National Stadium", "capacity": "50000", "year": "2012" }, "geometry": { "type": "Point", "coordinates": [ -13.7122, 9.5092 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stade de la Beaujoire", "city": "Nantes", "country": "FRA", "team": "FC Nantes", "capacity": "38486", "year": "1984" }, "geometry": { "type": "Point", "coordinates": [ -1.5524, 47.2165 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stade de la Mosson", "city": "Montpellier", "country": "FRA", "team": "Montpellier SC", "capacity": "31250", "year": "1998" }, "geometry": { "type": "Point", "coordinates": [ 3.8772, 43.6109 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stade de la RÃ©volution", "city": "Brazzaville", "country": "COG", "team": "National Stadium", "capacity": "50000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 15.2847, -4.2592 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stade de Suisse", "city": "Bern", "country": "CHE", "team": "BSC Young Boys", "capacity": "32000", "year": "2005" }, "geometry": { "type": "Point", "coordinates": [ 7.4667, 46.9167 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stade des Martyrs", "city": "Kinshasa", "country": "COD", "team": "National Stadium", "capacity": "80000", "year": "1994" }, "geometry": { "type": "Point", "coordinates": [ 15.3, -4.3 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stade du 4-AoÃ»t", "city": "Ouagadougou", "country": "BFA", "team": "ASFA Ouagadougou", "capacity": "40000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ -1.5247, 12.3703 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stade El Menzah", "city": "Tunis", "country": "TUN", "team": "Club Africain", "capacity": "45000", "year": "1967" }, "geometry": { "type": "Point", "coordinates": [ 10.1711, 36.8061 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stade F. Kibassa Maliba", "city": "Lubumbashi", "country": "COD", "team": "AS New Soger", "capacity": "35000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 27.4667, -11.6667 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stade FÃ©lix Bollaert", "city": "Lens", "country": "FRA", "team": "RC Lens", "capacity": "41810", "year": "1998" }, "geometry": { "type": "Point", "coordinates": [ 2.8332, 50.4312 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stade Larbi Zaouli", "city": "Casablanca", "country": "MAR", "team": "TAS Casablanca", "capacity": "35000", "year": "1930" }, "geometry": { "type": "Point", "coordinates": [ -7.6192, 33.5928 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stade Mohamed-Hamlaoui", "city": "Constantine", "country": "DZA", "team": "CS\/MO Constantine", "capacity": "40000", "year": "1973" }, "geometry": { "type": "Point", "coordinates": [ 6.6147, 36.365 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stade Mohammed V", "city": "Casablanca", "country": "MAR", "team": "Raja Casablanca", "capacity": "67000", "year": "1955" }, "geometry": { "type": "Point", "coordinates": [ -7.6192, 33.5928 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stade Moulay Abdellah", "city": "Rabat", "country": "MAR", "team": "FAR Rabat", "capacity": "52000", "year": "1983" }, "geometry": { "type": "Point", "coordinates": [ -6.8443, 34.0138 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stade Moustapha Tchaker", "city": "Blida", "country": "DZA", "team": "USM Blida", "capacity": "35000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 2.8289, 36.4686 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stade National", "city": "Nouakchott", "country": "MRT", "team": "National Stadium", "capacity": "40000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ -15.9753, 18.0864 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stade VÃ©lodrome", "city": "Marseille", "country": "FRA", "team": "Olympique de Marseille", "capacity": "60031", "year": "1937" }, "geometry": { "type": "Point", "coordinates": [ 5.3761, 43.2854 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadio Arechi", "city": "Salerno", "country": "ITA", "team": "Salernitana Sport", "capacity": "37894", "year": "1991" }, "geometry": { "type": "Point", "coordinates": [ 14.7833, 40.6833 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadio Artemio Franchi", "city": "Firenze", "country": "ITA", "team": "ACF Fiorentina", "capacity": "47232", "year": "1931" }, "geometry": { "type": "Point", "coordinates": [ 11.25, 43.7667 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadio della Vittoria", "city": "Bari", "country": "ITA", "team": "Multi-use", "capacity": "40400", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 16.85, 41.1333 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadio Euganeo", "city": "Padova", "country": "ITA", "team": "Calcio Padova", "capacity": "32420", "year": "1994" }, "geometry": { "type": "Point", "coordinates": [ 11.8833, 45.4167 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadio Friuli", "city": "Udine", "country": "ITA", "team": "Udinese Calcio", "capacity": "30669", "year": "1976" }, "geometry": { "type": "Point", "coordinates": [ 13.2422, 46.0619 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadio Luigi Ferraris", "city": "Genova", "country": "ITA", "team": "Sampdoria\/Genoa", "capacity": "36703", "year": "1990" }, "geometry": { "type": "Point", "coordinates": [ 8.95, 44.4167 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadio M. Bentegodi", "city": "Verona", "country": "ITA", "team": "Hellas Verona\/Chievo", "capacity": "39371", "year": "1963" }, "geometry": { "type": "Point", "coordinates": [ -89.5679, 42.9925 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadio Olimpico", "city": "Roma", "country": "ITA", "team": "AS Roma\/SS Lazio", "capacity": "72698", "year": "1953" }, "geometry": { "type": "Point", "coordinates": [ 27.7333, -29.45 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadio Renato dall'Ara", "city": "Bologna", "country": "ITA", "team": "Bologna FC 1909", "capacity": "36532", "year": "1927" }, "geometry": { "type": "Point", "coordinates": [ 11.3333, 44.4833 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadio Renzo Barbera", "city": "Palermo", "country": "ITA", "team": "US CittÃ  di Palermo", "capacity": "36980", "year": "1932" }, "geometry": { "type": "Point", "coordinates": [ 13.3667, 38.1167 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadio San Filippo", "city": "Messina", "country": "ITA", "team": "ACR Messina", "capacity": "37895", "year": "2004" }, "geometry": { "type": "Point", "coordinates": [ 30.0396, -22.3513 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadio San Nicola", "city": "Bari", "country": "ITA", "team": "AS Bari", "capacity": "58270", "year": "1990" }, "geometry": { "type": "Point", "coordinates": [ 16.85, 41.1333 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadio San Paolo", "city": "Napoli", "country": "ITA", "team": "SSC Napoli", "capacity": "78210", "year": "1959" }, "geometry": { "type": "Point", "coordinates": [ 14.25, 40.8333 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadio Via del Mare", "city": "Lecce", "country": "ITA", "team": "US Lecce", "capacity": "33876", "year": "1966" }, "geometry": { "type": "Point", "coordinates": [ 18.1833, 40.3833 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadion Crvena Zvezda", "city": "Beograd", "country": "SRB", "team": "FK Crvena Zvezda", "capacity": "51328", "year": "1957" }, "geometry": { "type": "Point", "coordinates": [ 20.4681, 44.8186 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadion Dnipro", "city": "Dnipropetrovsk", "country": "UKR", "team": "FK Dnipro", "capacity": "31003", "year": "2008" }, "geometry": { "type": "Point", "coordinates": [ 35.039, 48.463 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadion Feijenoord", "city": "Rotterdam", "country": "NLD", "team": "Feyenoord", "capacity": "51180", "year": "1937" }, "geometry": { "type": "Point", "coordinates": [ 4.5, 51.9167 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadion Lecha", "city": "Poznan", "country": "POL", "team": "Lech Poznan", "capacity": "43090", "year": "2010" }, "geometry": { "type": "Point", "coordinates": [ 16.9667, 52.4167 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadion Maksimir", "city": "Zagreb", "country": "HRV", "team": "NK Dinamo Zagreb", "capacity": "38923", "year": "1912" }, "geometry": { "type": "Point", "coordinates": [ 16.0, 45.8 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadion Metalist", "city": "Kharkiv", "country": "UKR", "team": "FK Metalist Kharkiv", "capacity": "40003", "year": "2008" }, "geometry": { "type": "Point", "coordinates": [ 36.2527, 49.9808 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadion Miejski", "city": "Wroclaw", "country": "POL", "team": "Slask Wroclaw", "capacity": "42771", "year": "2011" }, "geometry": { "type": "Point", "coordinates": [ 17.0333, 51.1 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadion NSK Olimpiyskiy", "city": "Kiev", "country": "UKR", "team": "FK Dynamo Kyiv", "capacity": "70050", "year": "1948" }, "geometry": { "type": "Point", "coordinates": [ 133.7022, 42.9047 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadion Olimpijski", "city": "Wroclaw", "country": "POL", "team": "Atlas Wroclaw", "capacity": "35000", "year": "1926" }, "geometry": { "type": "Point", "coordinates": [ 17.0333, 51.1 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadion Partizana", "city": "Beograd", "country": "SRB", "team": "FK Partizan", "capacity": "30887", "year": "1951" }, "geometry": { "type": "Point", "coordinates": [ 20.4681, 44.8186 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadion Poljud", "city": "Split", "country": "HRV", "team": "HNK Hajduk Split", "capacity": "34448", "year": "1979" }, "geometry": { "type": "Point", "coordinates": [ 16.4558, 43.5139 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadion PuskÃ¡s Ferenc", "city": "Budapest", "country": "HUN", "team": "National Stadium", "capacity": "68976", "year": "1953" }, "geometry": { "type": "Point", "coordinates": [ 19.0833, 47.5 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadion Shakhtar", "city": "Donetsk", "country": "UKR", "team": "FK Metalurh Donetsk", "capacity": "31718", "year": "1936" }, "geometry": { "type": "Point", "coordinates": [ 37.7759, 47.9917 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadionul Dan Paltinisanu", "city": "Timisoara", "country": "ROM", "team": "FC Politehnica", "capacity": "32000", "year": "1960" }, "geometry": { "type": "Point", "coordinates": [ 21.2272, 45.7494 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadium Ecopa", "city": "Shizuoka", "country": "JPN", "team": "Shimizu S-Pulse", "capacity": "51349", "year": "2001" }, "geometry": { "type": "Point", "coordinates": [ 138.3831, 34.9769 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadium Municipal", "city": "Toulouse", "country": "FRA", "team": "Toulouse FC", "capacity": "36369", "year": "1998" }, "geometry": { "type": "Point", "coordinates": [ 1.4332, 43.5995 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadium of Light", "city": "Sunderland", "country": "GBR", "team": "Sunderland AFC", "capacity": "49000", "year": "2000" }, "geometry": { "type": "Point", "coordinates": [ -1.3833, 54.9119 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stadium of Singapore", "city": "Singapore", "country": "SGP", "team": "National Stadium", "capacity": "55000", "year": "1973" }, "geometry": { "type": "Point", "coordinates": [ 103.8558, 1.2931 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stamford Bridge", "city": "London", "country": "GBR", "team": "Chelsea FC", "capacity": "41841", "year": "1997" }, "geometry": { "type": "Point", "coordinates": [ 30.8667, -24.7667 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Stanford Stadium", "city": "Stanford", "country": "USA", "team": "Stanford Cardinal", "capacity": "50000", "year": "2006" }, "geometry": { "type": "Point", "coordinates": [ -84.6816, 37.5159 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Subiaco Oval", "city": "Perth", "country": "AUS", "team": "West Coast Eagles FC", "capacity": "42922", "year": "1908" }, "geometry": { "type": "Point", "coordinates": [ -76.2449, 44.8983 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Subrata Roy Sahara Stadium", "city": "Pune", "country": "IND", "team": "Sahara Pune Warriors", "capacity": "55000", "year": "2011" }, "geometry": { "type": "Point", "coordinates": [ 73.8667, 18.5333 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "SÃ¼dweststadion", "city": "Ludwigshafen", "country": "DEU", "team": "SV SÃ¼dwest L'hafen", "capacity": "41383", "year": "1950" }, "geometry": { "type": "Point", "coordinates": [ 8.4353, 49.4811 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "SÃ¼krÃ¼ SaraÃ§oglu Stadi", "city": "Istanbul", "country": "TUR", "team": "FenerbahÃ§e SK", "capacity": "50509", "year": "2005" }, "geometry": { "type": "Point", "coordinates": [ 28.9647, 41.0186 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Sultan Qaboos Complex", "city": "Muscat", "country": "OMN", "team": "National Stadium", "capacity": "39000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 58.5933, 23.6133 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Sun Bowl", "city": "El Paso", "country": "USA", "team": "UTEP Miners", "capacity": "52000", "year": "1963" }, "geometry": { "type": "Point", "coordinates": [ -106.3762, 31.7958 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Sun Devil Stadium", "city": "Tempe", "country": "USA", "team": "ASU Sun Devils", "capacity": "73379", "year": "1958" }, "geometry": { "type": "Point", "coordinates": [ -111.929, 33.4001 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Suncorp Stadium", "city": "Brisbane", "country": "AUS", "team": "Brisbane Broncos RLC", "capacity": "52579", "year": "2003" }, "geometry": { "type": "Point", "coordinates": [ -122.4107, 37.6861 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Surelere Stadium", "city": "Lagos", "country": "NGA", "team": "Multi-use", "capacity": "55000", "year": "1972" }, "geometry": { "type": "Point", "coordinates": [ 3.3958, 6.4531 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Sydney Cricket Ground", "city": "Sydney", "country": "AUS", "team": "Sydney Swans FC", "capacity": "44000", "year": "1851" }, "geometry": { "type": "Point", "coordinates": [ -60.1667, 46.15 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Sydney Football Stadium", "city": "Sydney", "country": "AUS", "team": "Sydney Roosters RLC", "capacity": "45500", "year": "1988" }, "geometry": { "type": "Point", "coordinates": [ -60.1667, 46.15 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Talladega Superspeedway", "city": "Talladega", "country": "USA", "team": "Race-use", "capacity": "143000", "year": "1969" }, "geometry": { "type": "Point", "coordinates": [ -86.1034, 33.3782 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Target Field", "city": "Minneapolis", "country": "USA", "team": "Minnesota Twins", "capacity": "39504", "year": "2010" }, "geometry": { "type": "Point", "coordinates": [ -93.4305, 45.0059 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "TCF Bank Stadium", "city": "Minneapolis", "country": "USA", "team": "Minnesota Golden Gophers", "capacity": "50805", "year": "2009" }, "geometry": { "type": "Point", "coordinates": [ -93.4305, 45.0059 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "TEDA Football Stadium", "city": "Tianjin", "country": "CHN", "team": "Tianjin TEDA", "capacity": "37450", "year": "2004" }, "geometry": { "type": "Point", "coordinates": [ 117.1767, 39.1422 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "TehelnÃ© Pole Stadion", "city": "Bratislava", "country": "SVK", "team": "SK Slovan Bratislava", "capacity": "30087", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 17.1167, 48.15 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Texas Motor Speedway", "city": "Fort Worth", "country": "USA", "team": "Race-use", "capacity": "154861", "year": "1997" }, "geometry": { "type": "Point", "coordinates": [ -97.3214, 32.7257 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "The Gabba", "city": "Brisbane", "country": "AUS", "team": "Brisbane Lions FC", "capacity": "42000", "year": "2005" }, "geometry": { "type": "Point", "coordinates": [ -122.4107, 37.6861 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "The Sevens", "city": "Dubai", "country": "ARE", "team": "National Team", "capacity": "50000", "year": "2008" }, "geometry": { "type": "Point", "coordinates": [ 55.3047, 25.2582 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Thoroughbred Club", "city": "Del Mar", "country": "USA", "team": "Horse-Racing use", "capacity": "44000", "year": "1937" }, "geometry": { "type": "Point", "coordinates": [ -117.2586, 32.9672 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Tianhe Stadium", "city": "Guangzhou", "country": "CHN", "team": "Guangzhou Evergrande", "capacity": "60151", "year": "1987" }, "geometry": { "type": "Point", "coordinates": [ 113.25, 23.1167 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Tiburcio Carias Andino", "city": "Tegucigalpa", "country": "HND", "team": "National Stadium", "capacity": "35000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ -87.2167, 14.1 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Tiger Stadium", "city": "Baton Rouge", "country": "USA", "team": "LSU Tigers", "capacity": "92400", "year": "1924" }, "geometry": { "type": "Point", "coordinates": [ -91.1703, 30.4386 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Tofiq Bakhramov Stadium", "city": "Baku", "country": "AZE", "team": "FK Baku", "capacity": "31200", "year": "1952" }, "geometry": { "type": "Point", "coordinates": [ 49.8822, 40.3953 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Tokyo Dome", "city": "Tokyo", "country": "JPN", "team": "Tokyo Yomiuri Giants", "capacity": "45600", "year": "1988" }, "geometry": { "type": "Point", "coordinates": [ 139.7514, 35.685 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Tokyo Racecourse", "city": "Tokyo", "country": "JPN", "team": "Horse-Racing use", "capacity": "223000", "year": "1933" }, "geometry": { "type": "Point", "coordinates": [ 139.7514, 35.685 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "TomÃ¡s Adolfo DucÃ³", "city": "Buenos Aires", "country": "ARG", "team": "CA HuracÃ¡n", "capacity": "48314", "year": "1947" }, "geometry": { "type": "Point", "coordinates": [ -58.6725, -34.5875 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Tsentralnyi Profsoyuz", "city": "Voronezh", "country": "RUS", "team": "FK Fakel Woronezh", "capacity": "31743", "year": "2003" }, "geometry": { "type": "Point", "coordinates": [ 39.1843, 51.672 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Tsentralnyi Stadion", "city": "Kazan", "country": "RUS", "team": "FK Rubin Kazan", "capacity": "30133", "year": "1960" }, "geometry": { "type": "Point", "coordinates": [ 49.1221, 55.7887 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "TT Circuit Assen", "city": "Assen", "country": "NLD", "team": "Race-use", "capacity": "100000", "year": "1955" }, "geometry": { "type": "Point", "coordinates": [ 6.5632, 52.9947 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Tuanku Abdul Rahman", "city": "Seremban", "country": "MYS", "team": "Negeri Sembilan FA", "capacity": "40000", "year": "1992" }, "geometry": { "type": "Point", "coordinates": [ 101.9381, 2.7297 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "TÃ¼rk Telekom Arena", "city": "Istanbul", "country": "TUR", "team": "Galatasaray SK", "capacity": "52647", "year": "2011" }, "geometry": { "type": "Point", "coordinates": [ 28.9647, 41.0186 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Turner Field", "city": "Atlanta", "country": "USA", "team": "Atlanta Braves", "capacity": "50091", "year": "1997" }, "geometry": { "type": "Point", "coordinates": [ 27.5655, -25.207 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Twickenham Stadium", "city": "London", "country": "GBR", "team": "National Team", "capacity": "82000", "year": "1981" }, "geometry": { "type": "Point", "coordinates": [ 30.8667, -24.7667 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "U.S. Cellular Field", "city": "Chicago", "country": "USA", "team": "Chicago White Sox", "capacity": "40615", "year": "1991" }, "geometry": { "type": "Point", "coordinates": [ -87.65, 41.85 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "UB Stadium", "city": "Buffalo", "country": "USA", "team": "Buffalo Bulls", "capacity": "31000", "year": "1993" }, "geometry": { "type": "Point", "coordinates": [ -78.7279, 42.9864 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Universiade Memorial", "city": "Kobe", "country": "JPN", "team": "Vissel Kobe", "capacity": "45000", "year": "1985" }, "geometry": { "type": "Point", "coordinates": [ 135.183, 34.6913 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Universiade Stadium", "city": "Shenzhen", "country": "CHN", "team": "Multi-use", "capacity": "60000", "year": "2011" }, "geometry": { "type": "Point", "coordinates": [ 114.1333, 22.5333 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Universidad San Marcos", "city": "Lima", "country": "PER", "team": "Universidad San Marcos", "capacity": "67469", "year": "1997" }, "geometry": { "type": "Point", "coordinates": [ -84.1319, 40.7988 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "UniversitÃ¡rio P. Pedrossian", "city": "Campo Grande", "country": "BRA", "team": "EC Comercial", "capacity": "45000", "year": "1971" }, "geometry": { "type": "Point", "coordinates": [ -54.6167, -20.45 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "University City Stadium", "city": "Guangzhou", "country": "CHN", "team": "Guangzhou R&F", "capacity": "50000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 113.25, 23.1167 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "University of Phoenix Stadium", "city": "Glendale", "country": "USA", "team": "Arizona Cardinals", "capacity": "63400", "year": "2006" }, "geometry": { "type": "Point", "coordinates": [ -118.2416, 34.1352 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "University Stadium", "city": "Albuquerque", "country": "USA", "team": "New Mexico Lobos", "capacity": "42000", "year": "1960" }, "geometry": { "type": "Point", "coordinates": [ -106.8904, 35.0441 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Vanderbilt Stadium", "city": "Nashville", "country": "USA", "team": "Vanderbilt Commodores", "capacity": "39730", "year": "1981" }, "geometry": { "type": "Point", "coordinates": [ -86.777, 36.1473 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Vassil Levski Stadion", "city": "Sofia", "country": "BGR", "team": "National Stadium", "capacity": "43384", "year": "1953" }, "geometry": { "type": "Point", "coordinates": [ 23.3167, 42.6833 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Vaught-Hemingway Stadium", "city": "Oxford", "country": "USA", "team": "Ole Miss Rebels", "capacity": "60580", "year": "1941" }, "geometry": { "type": "Point", "coordinates": [ -89.4833, 34.3402 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "VCA Ground", "city": "Nagpur", "country": "IND", "team": "Cricket-use", "capacity": "40000", "year": "1975" }, "geometry": { "type": "Point", "coordinates": [ 79.1, 21.15 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Veltins Arena", "city": "Gelsenkirchen", "country": "DEU", "team": "Schalke 04", "capacity": "61027", "year": "2001" }, "geometry": { "type": "Point", "coordinates": [ 7.05, 51.5167 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Veterans Memorial Stadium", "city": "Jackson", "country": "USA", "team": "Jackson State Tigers", "capacity": "60492", "year": "1979" }, "geometry": { "type": "Point", "coordinates": [ -90.172, 32.3134 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Vicente CalderÃ³n", "city": "Madrid", "country": "ESP", "team": "AtlÃ©tico de Madrid", "capacity": "57500", "year": "1966" }, "geometry": { "type": "Point", "coordinates": [ -3.6922, 40.4086 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Villa Park", "city": "Birmingham", "country": "GBR", "team": "Aston Villa", "capacity": "43275", "year": "1897" }, "geometry": { "type": "Point", "coordinates": [ -86.7404, 33.4468 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Vodacom Park", "city": "Bloemfontein", "country": "ZAF", "team": "Free State Cheetahs", "capacity": "48000", "year": "1995" }, "geometry": { "type": "Point", "coordinates": [ 26.214, -29.1211 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Volkswagen Arena", "city": "Wolfsburg", "country": "DEU", "team": "VfL Wolfsburg", "capacity": "30122", "year": "2002" }, "geometry": { "type": "Point", "coordinates": [ 10.8, 52.4333 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Waldo Stadium", "city": "Kalamazoo", "country": "USA", "team": "W. Michigan Broncos", "capacity": "30100", "year": "1939" }, "geometry": { "type": "Point", "coordinates": [ -85.547, 42.3541 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Walkers Stadium", "city": "Leicester", "country": "GBR", "team": "Leicester City", "capacity": "32500", "year": "2002" }, "geometry": { "type": "Point", "coordinates": [ -82.7659, 35.6513 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Wallace Wade Stadium", "city": "Durham", "country": "USA", "team": "Duke Blue Devils", "capacity": "33941", "year": "1929" }, "geometry": { "type": "Point", "coordinates": [ -78.9244, 35.8896 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "War Memorial Stadium", "city": "Little Rock", "country": "USA", "team": "Arkansas Razorbacks", "capacity": "53727", "year": "1948" }, "geometry": { "type": "Point", "coordinates": [ -92.2896, 34.7465 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Wembley Stadium", "city": "London", "country": "GBR", "team": "National Stadium", "capacity": "90000", "year": "2007" }, "geometry": { "type": "Point", "coordinates": [ 30.8667, -24.7667 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Weserstadion", "city": "Bremen", "country": "DEU", "team": "Werder Bremen", "capacity": "42354", "year": "1909" }, "geometry": { "type": "Point", "coordinates": [ -86.1701, 41.4631 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Westpac Stadium", "city": "Wellington", "country": "NZL", "team": "Wellington Lions RUC", "capacity": "36000", "year": "2000" }, "geometry": { "type": "Point", "coordinates": [ -82.2085, 41.1609 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "White Hart Lane", "city": "London", "country": "GBR", "team": "Tottenham Hotspur", "capacity": "36214", "year": "1998" }, "geometry": { "type": "Point", "coordinates": [ 30.8667, -24.7667 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Wielka Krokiew", "city": "Zakopane", "country": "POL", "team": "TS Wisla Zakopane", "capacity": "40000", "year": "1925" }, "geometry": { "type": "Point", "coordinates": [ 19.9667, 49.3 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Wildparkstadion", "city": "Karlsruhe", "country": "DEU", "team": "Karlsruher SC", "capacity": "33800", "year": "1954" }, "geometry": { "type": "Point", "coordinates": [ 8.3858, 49.0047 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Williams Brice Stadium", "city": "Columbia", "country": "USA", "team": "S. Carolina Gamecocks", "capacity": "80250", "year": "1934" }, "geometry": { "type": "Point", "coordinates": [ -92.2714, 39.0437 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Wirsol Rhein-Neckar-Arena", "city": "Sinsheim", "country": "DEU", "team": "TSG 1899 Hoffenheim", "capacity": "30164", "year": "2009" }, "geometry": { "type": "Point", "coordinates": [ 8.8772, 49.2553 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Woodbine Racetrack", "city": "Toronto", "country": "CAN", "team": "Horse-Racing use", "capacity": "42000", "year": "1956" }, "geometry": { "type": "Point", "coordinates": [ -80.6709, 40.4903 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Workers Stadium", "city": "Beijing", "country": "CHN", "team": "Beijing Guoan", "capacity": "66161", "year": "1959" }, "geometry": { "type": "Point", "coordinates": [ 116.3883, 39.9289 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Wrigley Field", "city": "Chicago", "country": "USA", "team": "Chicago Cubs", "capacity": "41118", "year": "1914" }, "geometry": { "type": "Point", "coordinates": [ -87.65, 41.85 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Wutaisha Stadium", "city": "Nanjing", "country": "CHN", "team": "Nianjing Yoyo", "capacity": "35000", "year": "-" }, "geometry": { "type": "Point", "coordinates": [ 118.7778, 32.0617 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Yadegar e Emam Stadium", "city": "Tabriz", "country": "IRN", "team": "Football-use", "capacity": "71000", "year": "1996" }, "geometry": { "type": "Point", "coordinates": [ 46.2919, 38.08 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Yale Bowl", "city": "New Haven", "country": "USA", "team": "Yale Bulldogs", "capacity": "64269", "year": "1914" }, "geometry": { "type": "Point", "coordinates": [ -72.924, 41.3094 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Yankee Stadium", "city": "New York", "country": "USA", "team": "New York Yankees", "capacity": "52325", "year": "2009" }, "geometry": { "type": "Point", "coordinates": [ -73.9725, 40.7528 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Yas Marina Circuit", "city": "Abu Dhabi", "country": "ARE", "team": "Race-use", "capacity": "50000", "year": "2009" }, "geometry": { "type": "Point", "coordinates": [ 54.3667, 24.4667 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Yellow Dragon Stadium", "city": "Hangzhou", "country": "CHN", "team": "Hangzhou Greentown", "capacity": "52672", "year": "2000" }, "geometry": { "type": "Point", "coordinates": [ 120.1614, 30.2936 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Yizhong Center", "city": "Qingdao", "country": "CHN", "team": "Qingdao Jonoon FC", "capacity": "62000", "year": "1997" }, "geometry": { "type": "Point", "coordinates": [ 120.3719, 36.0986 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "York Racecourse", "city": "York", "country": "GBR", "team": "Horse Racing-use", "capacity": "56000", "year": "1960" }, "geometry": { "type": "Point", "coordinates": [ -76.6836, 40.002 ] } }
+,
+{ "type": "Feature", "properties": { "s_name": "Zentralstadion", "city": "Leipzig", "country": "DEU", "team": "RB Leipzig", "capacity": "44345", "year": "2003" }, "geometry": { "type": "Point", "coordinates": [ 12.3333, 51.3 ] } }
+
+]
+}
