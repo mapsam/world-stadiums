@@ -5,7 +5,9 @@
 <title>d3: Topojson Basemap</title>
 <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
 <script type="text/javascript" src="js/d3.v3.min.js"></script>
+<script type="text/javascript" src="js/queue.v1.min.js"></script>
 <script type="text/javascript" src="js/topojson.js"></script>
+
 <!--[if IE]>
 	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
@@ -22,44 +24,56 @@ function init() {
 }
 
 function setMap() {
-	var width = 896,
-		height = 400;
+	var width = 1200,
+		height = 560;
+
 	var svg = d3.select("#map").append("svg")
 		.attr("width", width)
 		.attr("height", height);
-	var projection = d3.geo.orthographic()
-		.scale(2000)
-		.rotate([100,-30,0])
-		.clipAngle(90)
+
+	var radius = d3.scale.sqrt()
+		.domain([0, 1e6])
+		.range([0, 20]);
+
+	var projection = d3.geo.mercator()
+		.scale(200)
 		.translate([width / 2, height / 2])
-		.center([20,10]);
+		.center([0,20]);
+
 	var path = d3.geo.path()
 		.projection(projection);
-	d3.json("data/stadia.json", function(error, stadia) {
-		land = topojson.feature(stadia, stadia.objects.land);
-		stadiums = topojson.feature(stadia, stadia.objects.stadiums);
+
+	//loads in different data files before running the map process
+	queue()
+		.defer(d3.json, "data/world.json")
+		.defer(d3.json, "data/stadiums.json")
+		.await(ready);
+	
+	//run this after files are loaded
+	function ready(error, world, stadia) {
+
 		svg.append("path")
-			.datum(land)
+			.datum(topojson.feature(world, world.objects.land))
 			.attr("class", "land")
 			.attr("d", path);
-		svg.append("path")
-			.datum(stadiums)
-			.attr("class", "stadium")
-			.attr("d", path);
+
 		svg.selectAll(".stadium")
-			.data(stadiums)
-			.on("mouseover", stadHover)
-			.on("mouseout", stadOff);
-	});
-	function stadHover(){
-		d3.select(this)
-			.style("fill", "#000");
-	}
-	function stadOff(){
-		d3.select(this)
-			.style("fill", "rgba(70, 130, 180, 0.3)");
+			.data(stadia.features.sort(function(b) { return b.properties.capacity; }))
+			.enter().append("path")
+				.attr("class", "stadium")
+				.attr("d", path.pointRadius(function(d) { return radius(d.properties.capacity); }))
+				.on("mouseover", mouseOn)
+				.on("mouseout", mouseOff);
 	}
 
+	function mouseOn() {
+		d3.select(this)
+			.attr("class", "stadOn");
+	}
+	function mouseOff() {
+		d3.select(this)
+			.attr("class", "stadOff");
+	}
 }
 
 window.onload = init();
