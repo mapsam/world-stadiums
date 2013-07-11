@@ -31,9 +31,7 @@ function setMap() {
 		.attr("width", width)
 		.attr("height", height);
 
-	var radius = d3.scale.sqrt()
-		.domain([0, 1e6])
-		.range([0, 20]);
+	
 
 	var projection = d3.geo.mercator()
 		.scale(200)
@@ -56,6 +54,25 @@ function setMap() {
 			.datum(topojson.feature(world, world.objects.land))
 			.attr("class", "land")
 			.attr("d", path);
+
+		length = stadia.features.length;
+		console.log(length);
+		var min = Infinity, max = -Infinity;
+		for (var mug=0; mug<length; mug++) {
+			var capacity = stadia.features[mug].properties.capacity
+			if ( capacity < min) {
+				min = capacity;
+				console.log(min);
+			}
+			if ( capacity > max) {
+				max = capacity;
+			}
+		}
+		console.log(min, max);
+
+		var radius = d3.scale.sqrt()
+			.domain([30012, 223000])
+			.range([0, 20]);
 
 		svg.selectAll(".stadium")
 			.data(stadia.features.sort(function(b) { return b.properties.capacity; }))
