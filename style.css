@@ -1,14 +1,39 @@
-*, body, html {
+body, html, h1, h2, h3, p {
 	padding:0;
 	margin:0;
+}
+body {
+	font-family:arial;
+}
+h2 {
+	margin-bottom:-20px;
+}
+h3 {
+	color:#555;
+	margin-bottom:-10px;
+}
+.country {
+	font-size:0.8em;
+	font-weight:100;
+}
+p {
+	margin-bottom:3px;
 }
 #wrap {
 	display:block;
 	margin:auto;
-	text-align:left;
 }
 #map {
 }
+#info {
+	position:absolute;
+	right:20px;
+	top:20px;
+	padding:5px 10px;
+	border:rgba(200,200,200,0.7) 3px solid;
+	background-color:rgba(240,240,240,0.5);
+}
+
 .stroke {
 	fill:none;
 	stroke:#666;
@@ -24,16 +49,16 @@
 	stroke-width:0.2px;
 }
 .stadium {
-	fill:#333;
-	fill-opacity: 0.3;
+	fill:steelblue;
+	fill-opacity: 0.4;
 }
 .stadOn {
-	fill:steelblue;
+	fill:#333;
 	fill-opacity:1.0;
 }
 .stadOff {
-	fill:#333;
-	fill-opacity: 0.3;
+	fill:steelblue;
+	fill-opacity: 0.4;
 }
 .fill {
 	fill: #fff;

@@ -4,7 +4,9 @@
 <meta charset="utf-8" />
 <title>d3: Topojson Basemap</title>
 <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+<script type="text/javascript" src="js/jquery.js"></script>
 <script type="text/javascript" src="js/d3.v3.min.js"></script>
+<script src="http://d3js.org/d3.geo.projection.v0.min.js"></script>
 <script type="text/javascript" src="js/queue.v1.min.js"></script>
 <script type="text/javascript" src="js/topojson.js"></script>
 
@@ -17,6 +19,7 @@
 <body>
 <div id="wrap">
 	<div id="map"></div>
+	<div id="info">World Stadiums</div>
 </div>
 <script>
 function init() {
@@ -24,20 +27,26 @@ function init() {
 }
 
 function setMap() {
-	var width = 1200,
-		height = 560;
+	console.log($(document).width())
 
+	// get dimension of the page to set dimensions of the map
+	var width = $(document).width(),
+		height = width * .66,
+		scale = width * .22;
+
+	// append svg canvas to #map with dimension parameters above
 	var svg = d3.select("#map").append("svg")
 		.attr("width", width)
 		.attr("height", height);
 
-	
-
-	var projection = d3.geo.mercator()
-		.scale(200)
+	// set the projection and orientation of the map - scale from above
+	var projection = d3.geo.robinson()
+		.scale(scale)
 		.translate([width / 2, height / 2])
-		.center([0,20]);
+		.center([10,10])
+		.precision(.1);
 
+	// append the projection information to the d3.geo path operator
 	var path = d3.geo.path()
 		.projection(projection);
 
@@ -48,28 +57,29 @@ function setMap() {
 		.await(ready);
 	
 	//run this after files are loaded
+	// error
 	function ready(error, world, stadia) {
 
+		// append a path object from the world geoJson with .land style
 		svg.append("path")
 			.datum(topojson.feature(world, world.objects.land))
 			.attr("class", "land")
 			.attr("d", path);
 
-		length = stadia.features.length;
-		console.log(length);
-		var min = Infinity, max = -Infinity;
-		for (var mug=0; mug<length; mug++) {
-			var capacity = stadia.features[mug].properties.capacity
-			if ( capacity < min) {
-				min = capacity;
-				console.log(min);
-			}
-			if ( capacity > max) {
-				max = capacity;
-			}
-		}
-		console.log(min, max);
+		// find min and max capacity from stadia geoJson to use for setting domain of point radius
+		// length = stadia.features.length;
+		// var min = Infinity, max = -Infinity;
+		// for (var mug=0; mug<length; mug++) {
+		// 	var capacity = stadia.features[mug].properties.capacity
+		// 	if ( capacity < min) {
+		// 		min = capacity;
+		// 	}
+		// 	if ( capacity > max) {
+		// 		max = capacity;
+		// 	}
+		// }
 
+		// set radius information of specific points
 		var radius = d3.scale.sqrt()
 			.domain([30012, 223000])
 			.range([0, 20]);
@@ -79,18 +89,54 @@ function setMap() {
 			.enter().append("path")
 				.attr("class", "stadium")
 				.attr("d", path.pointRadius(function(d) { return radius(d.properties.capacity); }))
-				.on("mouseover", mouseOn)
-				.on("mouseout", mouseOff);
+				.on("mouseover", function(d){
+
+					// define variables from stadiums.json
+					var stad = d.properties;
+						name = stad.s_name,
+						city = stad.city,
+						country = stad.country,
+						team = stad.team,
+						capacity = String(stad.capacity),
+						year = stad.year;
+
+					// adds comma separation into capacity value for readability
+					capLength = capacity.length;
+					if (capLength == 5) {
+						m = capacity.slice(0,2);
+						u = capacity.slice(2);
+						capacity = m + ',' + u;
+					}
+					if (capLength == 6) {
+						m = capacity.slice(0,3);
+						u = capacity.slice(3); 
+						capacity = m + ',' + u;
+					}
+					
+					// create block for adding to #info div
+					var info = "<h2>"+name+"</h2><br>\
+					<h3>"+city+", <span class='country'> "+country+"</h3><br>\
+					<p><strong>Team:</strong> "+team+"</p>\
+					<p><strong>Capacity:</strong> "+capacity+"</p>\
+					<p><strong>Year Built:</strong> "+year+"</p>";
+					
+					// add to #info
+					$('#info').html(info);
+
+					// change style to .stadOn
+					d3.select(this)
+						.attr("class", "stadOn");
+				})
+				.on("mouseout", function(d) {
+
+					// change back to original style once mouse leaves
+					d3.select(this)
+						.attr("class", "stadOff");
+				});
 	}
 
-	function mouseOn() {
-		d3.select(this)
-			.attr("class", "stadOn");
-	}
-	function mouseOff() {
-		d3.select(this)
-			.attr("class", "stadOff");
-	}
+	
+	
 }
 
 window.onload = init();
