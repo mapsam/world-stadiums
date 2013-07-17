@@ -9,7 +9,6 @@ View the [live demo](http://www.mapsam.com/mugs/stadiumsd3/)
 
 Libraries Used:
 * [d3](http://d3js.org/)
-* [d3 projections](https://github.com/mbostock/d3/wiki/Geo-Projections)
 * [d3 projections (extended)](https://github.com/d3/d3-geo-projection/)
 * [queue.js](https://github.com/mbostock/queue)
 * [jQuery](http://jquery.com/)
@@ -17,4 +16,5 @@ Libraries Used:
 Helpful Resources:
 * [Porportional Symbol Map](http://bl.ocks.org/mbostock/4342045)
 * [Let's Make a Map](http://bost.ocks.org/mike/map/)
+* [d3 projections](https://github.com/mbostock/d3/wiki/Geo-Projections)
 * [Rich Donohue](https://twitter.com/rgdonohue)
