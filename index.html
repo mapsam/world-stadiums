@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8" />
-<title>d3: Topojson Basemap</title>
+<title>World Stadiums</title>
 <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
 <script type="text/javascript" src="js/jquery.js"></script>
 <script type="text/javascript" src="js/d3.v3.min.js"></script>
@@ -27,11 +27,10 @@ function init() {
 }
 
 function setMap() {
-	console.log($(document).width())
 
 	// get dimension of the page to set dimensions of the map
 	var width = $(document).width(),
-		height = width * .66,
+		height = width * .60,
 		scale = width * .22;
 
 	// append svg canvas to #map with dimension parameters above
@@ -67,21 +66,18 @@ function setMap() {
 			.attr("d", path);
 
 		// find min and max capacity from stadia geoJson to use for setting domain of point radius
-		// length = stadia.features.length;
-		// var min = Infinity, max = -Infinity;
-		// for (var mug=0; mug<length; mug++) {
-		// 	var capacity = stadia.features[mug].properties.capacity
-		// 	if ( capacity < min) {
-		// 		min = capacity;
-		// 	}
-		// 	if ( capacity > max) {
-		// 		max = capacity;
-		// 	}
-		// }
+		length = stadia.features.length;
+		var caps = [];
+		for (var mug=0; mug<length; mug++) {
+			var cap = stadia.features[mug].properties.capacity
+			caps.push(Number(cap));
+		}
+		var min = Math.min.apply(Math, caps);
+		var max = Math.max.apply(Math, caps);
 
 		// set radius information of specific points
 		var radius = d3.scale.sqrt()
-			.domain([30012, 223000])
+			.domain([min, max])
 			.range([0, 20]);
 
 		svg.selectAll(".stadium")
